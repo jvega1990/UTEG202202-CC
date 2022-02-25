@@ -1,1 +1,2 @@
-Workshop of Edison Lascano
+Edison Lascano's Workshop
+code for managing animals in the Zoo
