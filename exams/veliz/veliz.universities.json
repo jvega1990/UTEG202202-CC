@@ -1,0 +1,351 @@
+[{
+  "_id": {
+    "$oid": "6222c58bf26729c95f15d33e"
+  },
+  "country": "Germany",
+  "name": "AKAD Hochschulen für Berufstätige, Fachhochschule Leipzig",
+  "domains": [
+    "akad.de"
+  ],
+  "alpha_two_code": "DE",
+  "state-province": null,
+  "web_pages": [
+    "http://www.akad.de/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222c5d0f26729c95f15d33f"
+  },
+  "country": "Germany",
+  "name": "Hochschule für Berufstätige Rendsburg",
+  "domains": [
+    "akad.de"
+  ],
+  "alpha_two_code": "DE",
+  "state-province": null,
+  "web_pages": [
+    "http://www.akad.de/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222c60af26729c95f15d340"
+  },
+  "country": "Germany",
+  "name": "Alice-Salomon-Fachhochschule für Sozialarbeit und Sozialpädagogik Berlin",
+  "domains": [
+    "asfh-berlin.de"
+  ],
+  "alpha_two_code": "DE",
+  "state-province": null,
+  "web_pages": [
+    "http://www.asfh-berlin.de/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222c631f26729c95f15d341"
+  },
+  "country": "Germany",
+  "name": "Augustana Hochschule Neuendettelsau",
+  "domains": [
+    "augustana.de"
+  ],
+  "alpha_two_code": "DE",
+  "state-province": null,
+  "web_pages": [
+    "http://www.augustana.de/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222c660f26729c95f15d342"
+  },
+  "country": "Germany",
+  "name": "Kirchliche Hochschule Bethel",
+  "domains": [
+    "bethel.de"
+  ],
+  "alpha_two_code": "DE",
+  "state-province": null,
+  "web_pages": [
+    "http://www.bethel.de/kiho/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222c888f26729c95f15d343"
+  },
+  "country": "Argentina",
+  "name": "Universidad Atlantida Argentina",
+  "domains": [
+    "atlantida.edu.ar"
+  ],
+  "alpha_two_code": "AR",
+  "state-province": "Buenos Aires",
+  "web_pages": [
+    "http://www.atlantida.edu.ar/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222c896f26729c95f15d344"
+  },
+  "country": "Argentina",
+  "name": "Universidad Austral Buenos Aires",
+  "domains": [
+    "austral.edu.ar"
+  ],
+  "alpha_two_code": "AR",
+  "state-province": "Buenos Aires",
+  "web_pages": [
+    "http://www.austral.edu.ar/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222c8d2f26729c95f15d345"
+  },
+  "country": "Argentina",
+  "name": "Universidad CAECE, Buenos Aires",
+  "domains": [
+    "caece.edu.ar"
+  ],
+  "alpha_two_code": "AR",
+  "state-province": "Ciudad Autónoma de Buenos Aires",
+  "web_pages": [
+    "http://www.caece.edu.ar/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222c8dff26729c95f15d346"
+  },
+  "country": "Argentina",
+  "name": "Instituto Universitario CEMA",
+  "domains": [
+    "cema.edu.ar"
+  ],
+  "alpha_two_code": "AR",
+  "state-province": "Ciudad Autónoma de Buenos Aires",
+  "web_pages": [
+    "http://www.cema.edu.ar/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222c968f26729c95f15d347"
+  },
+  "country": "Argentina",
+  "name": "Instituto Universitario de Estudios Navales y Marítimos",
+  "domains": [
+    "inun.edu.ar"
+  ],
+  "alpha_two_code": "AR",
+  "state-province": "Buenos Aires",
+  "web_pages": [
+    "http://www.inun.edu.ar/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222c99ef26729c95f15d348"
+  },
+  "country": "Brazil",
+  "name": "Centro Universitário Barao de Maua",
+  "domains": [
+    "baraodemaua.br"
+  ],
+  "alpha_two_code": "BR",
+  "state-province": null,
+  "web_pages": [
+    "http://www.baraodemaua.br/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222c9bff26729c95f15d349"
+  },
+  "country": "Brazil",
+  "name": "Universidade Braz Cubas",
+  "domains": [
+    "brazcubas.br"
+  ],
+  "alpha_two_code": "BR",
+  "state-province": null,
+  "web_pages": [
+    "http://www.brazcubas.br/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222c9e2f26729c95f15d34a"
+  },
+  "country": "Brazil",
+  "name": "Universidade Candido Mendes",
+  "domains": [
+    "candidomendes.br"
+  ],
+  "alpha_two_code": "BR",
+  "state-province": null,
+  "web_pages": [
+    "http://www.candidomendes.br/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222ca03f26729c95f15d34b"
+  },
+  "country": "Brazil",
+  "name": "Universidade Castelo Branco",
+  "domains": [
+    "castelobranco.br"
+  ],
+  "alpha_two_code": "BR",
+  "state-province": null,
+  "web_pages": [
+    "http://www.castelobranco.br/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222ca24f26729c95f15d34c"
+  },
+  "country": "Brazil",
+  "name": "Centro Universitário Claretiano",
+  "domains": [
+    "claretiano.edu.br"
+  ],
+  "alpha_two_code": "BR",
+  "state-province": null,
+  "web_pages": [
+    "http://www.claretiano.edu.br/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222ca61f26729c95f15d34d"
+  },
+  "country": "Colombia",
+  "name": "Universidad Autónoma de Manizales",
+  "domains": [
+    "autonoma.edu.co"
+  ],
+  "alpha_two_code": "CO",
+  "state-province": null,
+  "web_pages": [
+    "http://www.autonoma.edu.co/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222ca7ff26729c95f15d34e"
+  },
+  "country": "Colombia",
+  "name": "Universidad Bellas Artes",
+  "domains": [
+    "bellasartes.edu.co"
+  ],
+  "alpha_two_code": "CO",
+  "state-province": null,
+  "web_pages": [
+    "http://www.bellasartes.edu.co/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222ca9cf26729c95f15d34f"
+  },
+  "country": "Colombia",
+  "name": "Conservatorio del Tolima",
+  "domains": [
+    "bundenet.com"
+  ],
+  "alpha_two_code": "CO",
+  "state-province": null,
+  "web_pages": [
+    "http://www.bundenet.com/umusical/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222cabff26729c95f15d350"
+  },
+  "country": "Colombia",
+  "name": "Colegio de Estudios Superiores de Administración (CESA)",
+  "domains": [
+    "cesa.edu.co"
+  ],
+  "alpha_two_code": "CO",
+  "state-province": null,
+  "web_pages": [
+    "http://www.cesa.edu.co/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222cadaf26729c95f15d351"
+  },
+  "country": "Colombia",
+  "name": "Universidad CES",
+  "domains": [
+    "ces.edu.co"
+  ],
+  "alpha_two_code": "CO",
+  "state-province": null,
+  "web_pages": [
+    "http://www.ces.edu.co/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222cb0df26729c95f15d352"
+  },
+  "country": "France",
+  "name": "42 FR",
+  "domains": [
+    "student.42.fr"
+  ],
+  "alpha_two_code": "FR",
+  "state-province": null,
+  "web_pages": [
+    "http://www.42.fr/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222cb29f26729c95f15d353"
+  },
+  "country": "France",
+  "name": "Ecole de l'Air",
+  "domains": [
+    "aea.asso.fr"
+  ],
+  "alpha_two_code": "FR",
+  "state-province": null,
+  "web_pages": [
+    "http://www.aea.asso.fr/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222cb48f26729c95f15d354"
+  },
+  "country": "France",
+  "name": "AgroParisTech",
+  "domains": [
+    "agroparistech.fr"
+  ],
+  "alpha_two_code": "FR",
+  "state-province": null,
+  "web_pages": [
+    "http://www.agroparistech.fr/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222cb69f26729c95f15d355"
+  },
+  "country": "France",
+  "name": "Ecole Nationale Supérieure d'Agronomie de Rennes",
+  "domains": [
+    "agro.roazhon.inra.fr"
+  ],
+  "alpha_two_code": "FR",
+  "state-province": null,
+  "web_pages": [
+    "http://agro.roazhon.inra.fr/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222cb86f26729c95f15d356"
+  },
+  "country": "France",
+  "name": "Institut National Supérieur de Formation Agro-Alimentaire",
+  "domains": [
+    "agro.roazhon.inra.fr"
+  ],
+  "alpha_two_code": "FR",
+  "state-province": null,
+  "web_pages": [
+    "http://agro.roazhon.inra.fr/etab/insfa/accueil.htm"
+  ]
+}]
