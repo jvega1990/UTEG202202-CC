@@ -1,0 +1,354 @@
+[{
+  "_id": {
+    "$oid": "622300df7a436b6aabe57251"
+  },
+  "country": "Canada",
+  "name": "Cégep de Saint-Jérôme",
+  "domains": [
+    "cstj.qc.ca"
+  ],
+  "alpha_two_code": "CA",
+  "state-province": null,
+  "web_pages": [
+    "https://www.cstj.qc.ca",
+    "https://ccmt.cstj.qc.ca",
+    "https://ccml.cstj.qc.ca"
+  ]
+},{
+  "_id": {
+    "$oid": "622301347a436b6aabe57252"
+  },
+  "country": "Canada",
+  "name": "Lambton College",
+  "domains": [
+    "lambtoncollege.ca",
+    "mylambton.ca"
+  ],
+  "alpha_two_code": "CA",
+  "state-province": "Sarnia",
+  "web_pages": [
+    "https://www.lambtoncollege.ca"
+  ]
+},{
+  "_id": {
+    "$oid": "622302007a436b6aabe57253"
+  },
+  "country": "Canada",
+  "name": "Acadia University",
+  "domains": [
+    "acadiau.ca"
+  ],
+  "alpha_two_code": "CA",
+  "state-province": null,
+  "web_pages": [
+    "http://www.acadiau.ca/"
+  ]
+},{
+  "_id": {
+    "$oid": "622302247a436b6aabe57254"
+  },
+  "country": "Canada",
+  "name": "Algonquin College",
+  "domains": [
+    "algonquincollege.com"
+  ],
+  "alpha_two_code": "CA",
+  "state-province": null,
+  "web_pages": [
+    "http://www.algonquincollege.com/"
+  ]
+},{
+  "_id": {
+    "$oid": "6223024c7a436b6aabe57255"
+  },
+  "country": "Canada",
+  "name": "Ashton College",
+  "domains": [
+    "ashtoncollege.com"
+  ],
+  "alpha_two_code": "CA",
+  "state-province": null,
+  "web_pages": [
+    "http://www.ashtoncollege.com/"
+  ]
+},{
+  "_id": {
+    "$oid": "622302a67a436b6aabe57256"
+  },
+  "country": "Israel",
+  "name": "Afeka Tel Aviv Academic College of Engineering",
+  "domains": [
+    "afeka.ac.il"
+  ],
+  "alpha_two_code": "IL",
+  "state-province": null,
+  "web_pages": [
+    "http://www.afeka.ac.il/"
+  ]
+},{
+  "_id": {
+    "$oid": "622302b57a436b6aabe57257"
+  },
+  "country": "Israel",
+  "name": "JCT Lev Academic Center",
+  "domains": [
+    "jct.ac.il"
+  ],
+  "alpha_two_code": "IL",
+  "state-province": null,
+  "web_pages": [
+    "http://www.jct.ac.il/"
+  ]
+},{
+  "_id": {
+    "$oid": "622302da7a436b6aabe57258"
+  },
+  "country": "Israel",
+  "name": "Ariel University Center of Samaria",
+  "domains": [
+    "ariel.ac.il"
+  ],
+  "alpha_two_code": "IL",
+  "state-province": null,
+  "web_pages": [
+    "http://www.ariel.ac.il/"
+  ]
+},{
+  "_id": {
+    "$oid": "622302f17a436b6aabe57259"
+  },
+  "country": "Israel",
+  "name": "Ashkelon Academic College",
+  "domains": [
+    "ash-college.ac.il"
+  ],
+  "alpha_two_code": "IL",
+  "state-province": null,
+  "web_pages": [
+    "http://www.ash-college.ac.il/"
+  ]
+},{
+  "_id": {
+    "$oid": "6223030a7a436b6aabe5725a"
+  },
+  "country": "Israel",
+  "name": "Bezalel Academy of Art and Design",
+  "domains": [
+    "bezalel.ac.il"
+  ],
+  "alpha_two_code": "IL",
+  "state-province": null,
+  "web_pages": [
+    "http://www.bezalel.ac.il/"
+  ]
+},{
+  "_id": {
+    "$oid": "6223037b7a436b6aabe5725b"
+  },
+  "country": "China",
+  "name": "Anhui Medical University",
+  "domains": [
+    "ahmu.edu.cn"
+  ],
+  "alpha_two_code": "CN",
+  "state-province": null,
+  "web_pages": [
+    "http://www.ahmu.edu.cn/"
+  ]
+},{
+  "_id": {
+    "$oid": "622303977a436b6aabe5725c"
+  },
+  "country": "China",
+  "name": "Anhui Normal University",
+  "domains": [
+    "ahnu.edu.cn"
+  ],
+  "alpha_two_code": "CN",
+  "state-province": null,
+  "web_pages": [
+    "http://www.ahnu.edu.cn/"
+  ]
+},{
+  "_id": {
+    "$oid": "622303b07a436b6aabe5725d"
+  },
+  "country": "China",
+  "name": "Anhui Technical College of Water Resources and Hydroelectric Power",
+  "domains": [
+    "ahsdxy.ah.edu.cn"
+  ],
+  "alpha_two_code": "CN",
+  "state-province": null,
+  "web_pages": [
+    "http://www.ahsdxy.ah.edu.cn/"
+  ]
+},{
+  "_id": {
+    "$oid": "622303c47a436b6aabe5725e"
+  },
+  "country": "China",
+  "name": "Anhui University of Traditional Chinese Medicine",
+  "domains": [
+    "ahtcm.edu.cn"
+  ],
+  "alpha_two_code": "CN",
+  "state-province": null,
+  "web_pages": [
+    "http://www.ahtcm.edu.cn/"
+  ]
+},{
+  "_id": {
+    "$oid": "622303dc7a436b6aabe5725f"
+  },
+  "country": "China",
+  "name": "Anhui University",
+  "domains": [
+    "ahu.edu.cn"
+  ],
+  "alpha_two_code": "CN",
+  "state-province": null,
+  "web_pages": [
+    "http://www.ahu.edu.cn/"
+  ]
+},{
+  "_id": {
+    "$oid": "622304317a436b6aabe57260"
+  },
+  "country": "Japan",
+  "name": "Aichi Shukutoku University",
+  "domains": [
+    "aasa.ac.jp"
+  ],
+  "alpha_two_code": "JP",
+  "state-province": null,
+  "web_pages": [
+    "http://www.aasa.ac.jp/"
+  ]
+},{
+  "_id": {
+    "$oid": "622304547a436b6aabe57261"
+  },
+  "country": "Japan",
+  "name": "Aichi Bunkyo University",
+  "domains": [
+    "abu.ac.jp"
+  ],
+  "alpha_two_code": "JP",
+  "state-province": null,
+  "web_pages": [
+    "http://www.abu.ac.jp/"
+  ]
+},{
+  "_id": {
+    "$oid": "622304767a436b6aabe57262"
+  },
+  "country": "Japan",
+  "name": "Aichi University of Education",
+  "domains": [
+    "aichi-edu.ac.jp"
+  ],
+  "alpha_two_code": "JP",
+  "state-province": null,
+  "web_pages": [
+    "http://www.aichi-edu.ac.jp/"
+  ]
+},{
+  "_id": {
+    "$oid": "6223048a7a436b6aabe57263"
+  },
+  "country": "Japan",
+  "name": "Aichi Prefectural University of Fine Arts & Music",
+  "domains": [
+    "aichi-fam-u.ac.jp"
+  ],
+  "alpha_two_code": "JP",
+  "state-province": null,
+  "web_pages": [
+    "http://www.aichi-fam-u.ac.jp/"
+  ]
+},{
+  "_id": {
+    "$oid": "622304a57a436b6aabe57264"
+  },
+  "country": "Japan",
+  "name": "Aichi Gakuin University",
+  "domains": [
+    "aichi-gakuin.ac.jp"
+  ],
+  "alpha_two_code": "JP",
+  "state-province": null,
+  "web_pages": [
+    "http://www.aichi-gakuin.ac.jp/"
+  ]
+},{
+  "_id": {
+    "$oid": "622304dc7a436b6aabe57265"
+  },
+  "country": "Mongolia",
+  "name": "Health sciences University of Mongolia",
+  "domains": [
+    "hsum-ac.mn"
+  ],
+  "alpha_two_code": "MN",
+  "state-province": null,
+  "web_pages": [
+    "http://www.hsum-ac.mn/"
+  ]
+},{
+  "_id": {
+    "$oid": "622305007a436b6aabe57266"
+  },
+  "country": "Mongolia",
+  "name": "University of the Humanities",
+  "domains": [
+    "humanities.mn"
+  ],
+  "alpha_two_code": "MN",
+  "state-province": null,
+  "web_pages": [
+    "http://www.humanities.mn/"
+  ]
+},{
+  "_id": {
+    "$oid": "622305167a436b6aabe57267"
+  },
+  "country": "Mongolia",
+  "name": "Institute of Commerce and Business",
+  "domains": [
+    "icb.edu.mn"
+  ],
+  "alpha_two_code": "MN",
+  "state-province": null,
+  "web_pages": [
+    "http://www.icb.edu.mn/"
+  ]
+},{
+  "_id": {
+    "$oid": "622305357a436b6aabe57268"
+  },
+  "country": "Mongolia",
+  "name": "Mongolian State University of Arts and Culture",
+  "domains": [
+    "msuac.edu.mn"
+  ],
+  "alpha_two_code": "MN",
+  "state-province": null,
+  "web_pages": [
+    "http://www.msuac.edu.mn/"
+  ]
+},{
+  "_id": {
+    "$oid": "6223054c7a436b6aabe57269"
+  },
+  "country": "Mongolia",
+  "name": "Mongolian State University of Agriculture",
+  "domains": [
+    "msua.edu.mn"
+  ],
+  "alpha_two_code": "MN",
+  "state-province": null,
+  "web_pages": [
+    "http://www.msua.edu.mn/"
+  ]
+}]
