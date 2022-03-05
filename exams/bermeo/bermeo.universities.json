@@ -1,0 +1,352 @@
+[{
+  "_id": {
+    "$oid": "6222adead460c5fd37d9492b"
+  },
+  "country": "Chile",
+  "name": "Universidad Academia de Humanismo Cristiano",
+  "domains": [
+    "academia.cl"
+  ],
+  "alpha_two_code": "CL",
+  "state-province": null,
+  "web_pages": [
+    "http://www.academia.cl/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222adead460c5fd37d9492c"
+  },
+  "country": "Chile",
+  "name": "Escuela de Arquitectura y Diseño",
+  "domains": [
+    "arquitecturaucv.cl"
+  ],
+  "alpha_two_code": "CL",
+  "state-province": null,
+  "web_pages": [
+    "http://www.arquitecturaucv.cl/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222adead460c5fd37d9492d"
+  },
+  "country": "Chile",
+  "name": "Pontificia Universidad Catolica de Chile",
+  "domains": [
+    "uc.cl"
+  ],
+  "alpha_two_code": "CL",
+  "state-province": null,
+  "web_pages": [
+    "https://www.uc.cl/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222adead460c5fd37d9492e"
+  },
+  "country": "Chile",
+  "name": "Universidad Austral de Chile",
+  "domains": [
+    "uach.cl"
+  ],
+  "alpha_two_code": "CL",
+  "state-province": null,
+  "web_pages": [
+    "http://www.uach.cl/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222adead460c5fd37d9492f"
+  },
+  "country": "Chile",
+  "name": "Universidad de Aconcagua",
+  "domains": [
+    "uaconcagua.cl"
+  ],
+  "alpha_two_code": "CL",
+  "state-province": null,
+  "web_pages": [
+    "http://www.uaconcagua.cl/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222ae33d460c5fd37d94931"
+  },
+  "country": "Spain",
+  "name": "Barcelona Graduate School of Economics",
+  "domains": [
+    "barcelonagse.eu"
+  ],
+  "alpha_two_code": "ES",
+  "state-province": null,
+  "web_pages": [
+    "http://www.barcelonagse.eu/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222ae33d460c5fd37d94932"
+  },
+  "country": "Spain",
+  "name": "Bircham International University",
+  "domains": [
+    "bircham.edu"
+  ],
+  "alpha_two_code": "ES",
+  "state-province": null,
+  "web_pages": [
+    "http://www.bircham.edu/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222ae33d460c5fd37d94933"
+  },
+  "country": "Spain",
+  "name": "Universidad de San Pablo CEU",
+  "domains": [
+    "ceu.es"
+  ],
+  "alpha_two_code": "ES",
+  "state-province": null,
+  "web_pages": [
+    "http://www.ceu.es/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222ae33d460c5fd37d94934"
+  },
+  "country": "Spain",
+  "name": "Universidad de Deusto",
+  "domains": [
+    "deusto.es"
+  ],
+  "alpha_two_code": "ES",
+  "state-province": null,
+  "web_pages": [
+    "http://www.deusto.es/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222ae33d460c5fd37d94935"
+  },
+  "country": "Spain",
+  "name": "Universidad del País Vasco",
+  "domains": [
+    "ehu.es",
+    "ehu.eus"
+  ],
+  "alpha_two_code": "ES",
+  "state-province": null,
+  "web_pages": [
+    "http://www.ehu.es/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222ae94d460c5fd37d94937"
+  },
+  "country": "Italy",
+  "name": "Pontificia Università S. Tommaso",
+  "domains": [
+    "angelicum.org"
+  ],
+  "alpha_two_code": "IT",
+  "state-province": null,
+  "web_pages": [
+    "http://www.angelicum.org/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222ae94d460c5fd37d94938"
+  },
+  "country": "Italy",
+  "name": "Pontificio Ateneo Antonianum",
+  "domains": [
+    "antonianum.ofm.org"
+  ],
+  "alpha_two_code": "IT",
+  "state-province": null,
+  "web_pages": [
+    "http://www.antonianum.ofm.org/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222ae94d460c5fd37d94939"
+  },
+  "country": "Italy",
+  "name": "University of Modena",
+  "domains": [
+    "casa.unimo.it"
+  ],
+  "alpha_two_code": "IT",
+  "state-province": null,
+  "web_pages": [
+    "http://www.casa.unimo.it/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222ae94d460c5fd37d9493a"
+  },
+  "country": "Italy",
+  "name": "Abdus Salam international centre for theoretical physics",
+  "domains": [
+    "ictp.trieste.it"
+  ],
+  "alpha_two_code": "IT",
+  "state-province": null,
+  "web_pages": [
+    "http://www.ictp.trieste.it/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222ae94d460c5fd37d9493b"
+  },
+  "country": "Italy",
+  "name": "Institute for Advanced Studies Lucca",
+  "domains": [
+    "imtlucca.it"
+  ],
+  "alpha_two_code": "IT",
+  "state-province": null,
+  "web_pages": [
+    "http://www.imtlucca.it/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222af08d460c5fd37d9493e"
+  },
+  "country": "Portugal",
+  "name": "Instituto Superior de Informática e Gestão",
+  "domains": [
+    "cocite.pt"
+  ],
+  "alpha_two_code": "PT",
+  "state-province": null,
+  "web_pages": [
+    "http://www.cocite.pt/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222af08d460c5fd37d9493f"
+  },
+  "country": "Portugal",
+  "name": "Escola Nautica Infante D. Henrique",
+  "domains": [
+    "enautica.pt"
+  ],
+  "alpha_two_code": "PT",
+  "state-province": null,
+  "web_pages": [
+    "http://www.enautica.pt/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222af08d460c5fd37d94940"
+  },
+  "country": "Portugal",
+  "name": "Escola Superior de Artes e Design",
+  "domains": [
+    "esad.pt"
+  ],
+  "alpha_two_code": "PT",
+  "state-province": null,
+  "web_pages": [
+    "http://www.esad.pt/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222af08d460c5fd37d94941"
+  },
+  "country": "Portugal",
+  "name": "Escola Superior de Hotelaria e Turismo do Estoril",
+  "domains": [
+    "eshte.pt"
+  ],
+  "alpha_two_code": "PT",
+  "state-province": null,
+  "web_pages": [
+    "http://www.eshte.pt/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222af08d460c5fd37d94942"
+  },
+  "country": "Portugal",
+  "name": "European University Portugal",
+  "domains": [
+    "europeanuniversity.pt"
+  ],
+  "alpha_two_code": "PT",
+  "state-province": null,
+  "web_pages": [
+    "http://www.europeanuniversity.pt/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222af46d460c5fd37d94944"
+  },
+  "country": "Honduras",
+  "name": "Universidad José Cecilio del Valle",
+  "domains": [
+    "ujcv.edu.hn"
+  ],
+  "alpha_two_code": "HN",
+  "state-province": null,
+  "web_pages": [
+    "http://www.ujcv.edu.hn/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222af46d460c5fd37d94945"
+  },
+  "country": "Honduras",
+  "name": "Universidad Nacional Autónoma de Honduras",
+  "domains": [
+    "unah.edu.hn"
+  ],
+  "alpha_two_code": "HN",
+  "state-province": null,
+  "web_pages": [
+    "http://www.unah.edu.hn/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222af46d460c5fd37d94946"
+  },
+  "country": "Honduras",
+  "name": "Universidad Católica de Honduras",
+  "domains": [
+    "unicah.edu"
+  ],
+  "alpha_two_code": "HN",
+  "state-province": null,
+  "web_pages": [
+    "http://www.unicah.edu/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222af46d460c5fd37d94947"
+  },
+  "country": "Honduras",
+  "name": "Universidad Metropolitana de Honduras",
+  "domains": [
+    "unimetro.edu.hn"
+  ],
+  "alpha_two_code": "HN",
+  "state-province": null,
+  "web_pages": [
+    "http://www.unimetro.edu.hn/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222af46d460c5fd37d94948"
+  },
+  "country": "Honduras",
+  "name": "Universidad Tecnológica Centroamericana",
+  "domains": [
+    "unitec.edu"
+  ],
+  "alpha_two_code": "HN",
+  "state-province": null,
+  "web_pages": [
+    "http://www.unitec.edu/"
+  ]
+}]
