@@ -1,0 +1,354 @@
+[{
+  "_id": {
+    "$oid": "6222d08c207d441e192f67e0"
+  },
+  "country": "Germany",
+  "name": "AKAD Hochschulen für Berufstätige, Fachhochschule Leipzig",
+  "domains": [
+    "akad.de"
+  ],
+  "alpha_two_code": "DE",
+  "state-province": null,
+  "web_pages": [
+    "http://www.akad.de/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222d08c207d441e192f67e1"
+  },
+  "country": "Germany",
+  "name": "Hochschule für Berufstätige Rendsburg",
+  "domains": [
+    "akad.de"
+  ],
+  "alpha_two_code": "DE",
+  "state-province": null,
+  "web_pages": [
+    "http://www.akad.de/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222d08c207d441e192f67e2"
+  },
+  "country": "Germany",
+  "name": "Alice-Salomon-Fachhochschule für Sozialarbeit und Sozialpädagogik Berlin",
+  "domains": [
+    "asfh-berlin.de"
+  ],
+  "alpha_two_code": "DE",
+  "state-province": null,
+  "web_pages": [
+    "http://www.asfh-berlin.de/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222d08c207d441e192f67e3"
+  },
+  "country": "Germany",
+  "name": "Augustana Hochschule Neuendettelsau",
+  "domains": [
+    "augustana.de"
+  ],
+  "alpha_two_code": "DE",
+  "state-province": null,
+  "web_pages": [
+    "http://www.augustana.de/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222d08c207d441e192f67e4"
+  },
+  "country": "Germany",
+  "name": "Kirchliche Hochschule Bethel",
+  "domains": [
+    "bethel.de"
+  ],
+  "alpha_two_code": "DE",
+  "state-province": null,
+  "web_pages": [
+    "http://www.bethel.de/kiho/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222d08c207d441e192f67e5"
+  },
+  "country": "Canada",
+  "name": "Cégep de Saint-Jérôme",
+  "domains": [
+    "cstj.qc.ca"
+  ],
+  "alpha_two_code": "CA",
+  "state-province": null,
+  "web_pages": [
+    "https://www.cstj.qc.ca",
+    "https://ccmt.cstj.qc.ca",
+    "https://ccml.cstj.qc.ca"
+  ]
+},{
+  "_id": {
+    "$oid": "6222d08c207d441e192f67e6"
+  },
+  "country": "Canada",
+  "name": "Lambton College",
+  "domains": [
+    "lambtoncollege.ca",
+    "mylambton.ca"
+  ],
+  "alpha_two_code": "CA",
+  "state-province": "Sarnia",
+  "web_pages": [
+    "https://www.lambtoncollege.ca"
+  ]
+},{
+  "_id": {
+    "$oid": "6222d08c207d441e192f67e7"
+  },
+  "country": "Canada",
+  "name": "Acadia University",
+  "domains": [
+    "acadiau.ca"
+  ],
+  "alpha_two_code": "CA",
+  "state-province": null,
+  "web_pages": [
+    "http://www.acadiau.ca/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222d08c207d441e192f67e8"
+  },
+  "country": "Canada",
+  "name": "Algonquin College",
+  "domains": [
+    "algonquincollege.com"
+  ],
+  "alpha_two_code": "CA",
+  "state-province": null,
+  "web_pages": [
+    "http://www.algonquincollege.com/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222d08c207d441e192f67e9"
+  },
+  "country": "Canada",
+  "name": "Ashton College",
+  "domains": [
+    "ashtoncollege.com"
+  ],
+  "alpha_two_code": "CA",
+  "state-province": null,
+  "web_pages": [
+    "http://www.ashtoncollege.com/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222d08c207d441e192f67ea"
+  },
+  "country": "Italy",
+  "name": "Pontificia Università S. Tommaso",
+  "domains": [
+    "angelicum.org"
+  ],
+  "alpha_two_code": "IT",
+  "state-province": null,
+  "web_pages": [
+    "http://www.angelicum.org/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222d08c207d441e192f67eb"
+  },
+  "country": "Italy",
+  "name": "Pontificio Ateneo Antonianum",
+  "domains": [
+    "antonianum.ofm.org"
+  ],
+  "alpha_two_code": "IT",
+  "state-province": null,
+  "web_pages": [
+    "http://www.antonianum.ofm.org/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222d08c207d441e192f67ec"
+  },
+  "country": "Italy",
+  "name": "University of Modena",
+  "domains": [
+    "casa.unimo.it"
+  ],
+  "alpha_two_code": "IT",
+  "state-province": null,
+  "web_pages": [
+    "http://www.casa.unimo.it/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222d08c207d441e192f67ed"
+  },
+  "country": "Italy",
+  "name": "Abdus Salam international centre for theoretical physics",
+  "domains": [
+    "ictp.trieste.it"
+  ],
+  "alpha_two_code": "IT",
+  "state-province": null,
+  "web_pages": [
+    "http://www.ictp.trieste.it/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222d08c207d441e192f67ee"
+  },
+  "country": "Italy",
+  "name": "Institute for Advanced Studies Lucca",
+  "domains": [
+    "imtlucca.it"
+  ],
+  "alpha_two_code": "IT",
+  "state-province": null,
+  "web_pages": [
+    "http://www.imtlucca.it/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222d08c207d441e192f67ef"
+  },
+  "country": "France",
+  "name": "42 FR",
+  "domains": [
+    "student.42.fr"
+  ],
+  "alpha_two_code": "FR",
+  "state-province": null,
+  "web_pages": [
+    "http://www.42.fr/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222d08c207d441e192f67f0"
+  },
+  "country": "France",
+  "name": "Ecole de l'Air",
+  "domains": [
+    "aea.asso.fr"
+  ],
+  "alpha_two_code": "FR",
+  "state-province": null,
+  "web_pages": [
+    "http://www.aea.asso.fr/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222d08c207d441e192f67f1"
+  },
+  "country": "France",
+  "name": "AgroParisTech",
+  "domains": [
+    "agroparistech.fr"
+  ],
+  "alpha_two_code": "FR",
+  "state-province": null,
+  "web_pages": [
+    "http://www.agroparistech.fr/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222d08c207d441e192f67f2"
+  },
+  "country": "France",
+  "name": "Ecole Nationale Supérieure d'Agronomie de Rennes",
+  "domains": [
+    "agro.roazhon.inra.fr"
+  ],
+  "alpha_two_code": "FR",
+  "state-province": null,
+  "web_pages": [
+    "http://agro.roazhon.inra.fr/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222d08c207d441e192f67f3"
+  },
+  "country": "France",
+  "name": "Institut National Supérieur de Formation Agro-Alimentaire",
+  "domains": [
+    "agro.roazhon.inra.fr"
+  ],
+  "alpha_two_code": "FR",
+  "state-province": null,
+  "web_pages": [
+    "http://agro.roazhon.inra.fr/etab/insfa/accueil.htm"
+  ]
+},{
+  "_id": {
+    "$oid": "6222d08c207d441e192f67f4"
+  },
+  "country": "Brazil",
+  "name": "Centro Universitário Barao de Maua",
+  "domains": [
+    "baraodemaua.br"
+  ],
+  "alpha_two_code": "BR",
+  "state-province": null,
+  "web_pages": [
+    "http://www.baraodemaua.br/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222d08c207d441e192f67f5"
+  },
+  "country": "Brazil",
+  "name": "Universidade Braz Cubas",
+  "domains": [
+    "brazcubas.br"
+  ],
+  "alpha_two_code": "BR",
+  "state-province": null,
+  "web_pages": [
+    "http://www.brazcubas.br/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222d08c207d441e192f67f6"
+  },
+  "country": "Brazil",
+  "name": "Universidade Candido Mendes",
+  "domains": [
+    "candidomendes.br"
+  ],
+  "alpha_two_code": "BR",
+  "state-province": null,
+  "web_pages": [
+    "http://www.candidomendes.br/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222d08c207d441e192f67f7"
+  },
+  "country": "Brazil",
+  "name": "Universidade Castelo Branco",
+  "domains": [
+    "castelobranco.br"
+  ],
+  "alpha_two_code": "BR",
+  "state-province": null,
+  "web_pages": [
+    "http://www.castelobranco.br/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222d08c207d441e192f67f8"
+  },
+  "country": "Brazil",
+  "name": "Centro Universitário Claretiano",
+  "domains": [
+    "claretiano.edu.br"
+  ],
+  "alpha_two_code": "BR",
+  "state-province": null,
+  "web_pages": [
+    "http://www.claretiano.edu.br/"
+  ]
+}]
