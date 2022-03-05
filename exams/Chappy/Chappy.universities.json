@@ -1,0 +1,351 @@
+[{
+  "_id": {
+    "$oid": "6222f286b0ef20ef29e590cd"
+  },
+  "country": "Belgium",
+  "name": "Brexgata University Academy",
+  "domains": [
+    "brexgata.eu"
+  ],
+  "alpha_two_code": "BE",
+  "state-province": null,
+  "web_pages": [
+    "http://www.brexgata.eu/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222f286b0ef20ef29e590ce"
+  },
+  "country": "Belgium",
+  "name": "European Carolus Magnus University",
+  "domains": [
+    "carolus-magnus-university.eu"
+  ],
+  "alpha_two_code": "BE",
+  "state-province": null,
+  "web_pages": [
+    "http://www.carolus-magnus-university.eu/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222f286b0ef20ef29e590cf"
+  },
+  "country": "Belgium",
+  "name": "College of Europe",
+  "domains": [
+    "coleurope.eu"
+  ],
+  "alpha_two_code": "BE",
+  "state-province": null,
+  "web_pages": [
+    "http://www.coleurope.eu/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222f286b0ef20ef29e590d0"
+  },
+  "country": "Belgium",
+  "name": "Continental Theological Seminary",
+  "domains": [
+    "ctsem.edu"
+  ],
+  "alpha_two_code": "BE",
+  "state-province": null,
+  "web_pages": [
+    "http://www.ctsem.edu/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222f286b0ef20ef29e590d1"
+  },
+  "country": "Belgium",
+  "name": "ECAM - Institut Supérieur Industriel",
+  "domains": [
+    "ecam.be"
+  ],
+  "alpha_two_code": "BE",
+  "state-province": null,
+  "web_pages": [
+    "http://www.ecam.be/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222f286b0ef20ef29e590d2"
+  },
+  "country": "Cuba",
+  "name": "Instituto Superior Politécnico José Antonio Echeverría",
+  "domains": [
+    "cujae.edu.cu"
+  ],
+  "alpha_two_code": "CU",
+  "state-province": null,
+  "web_pages": [
+    "http://www.cujae.edu.cu/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222f286b0ef20ef29e590d3"
+  },
+  "country": "Cuba",
+  "name": "Instituto Superior Minero Metalúrgico \"Dr. Antonio Núñez Jiménez\"",
+  "domains": [
+    "ismm.edu.cu"
+  ],
+  "alpha_two_code": "CU",
+  "state-province": null,
+  "web_pages": [
+    "http://www.ismm.edu.cu/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222f286b0ef20ef29e590d4"
+  },
+  "country": "Cuba",
+  "name": "Universidad Pedagógica \"José Martí\", Camagüey",
+  "domains": [
+    "ispcmw.rimed.cu"
+  ],
+  "alpha_two_code": "CU",
+  "state-province": null,
+  "web_pages": [
+    "http://www.ispcmw.rimed.cu/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222f286b0ef20ef29e590d5"
+  },
+  "country": "Cuba",
+  "name": "Universidad de Camagüey",
+  "domains": [
+    "reduc.edu.cu"
+  ],
+  "alpha_two_code": "CU",
+  "state-province": null,
+  "web_pages": [
+    "http://www.reduc.edu.cu/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222f286b0ef20ef29e590d6"
+  },
+  "country": "Cuba",
+  "name": "Universidad de Cienfuegos",
+  "domains": [
+    "ucf.edu.cu"
+  ],
+  "alpha_two_code": "CU",
+  "state-province": null,
+  "web_pages": [
+    "http://www.ucf.edu.cu/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222f286b0ef20ef29e590d7"
+  },
+  "country": "Brazil",
+  "name": "Centro Universitário Barao de Maua",
+  "domains": [
+    "baraodemaua.br"
+  ],
+  "alpha_two_code": "BR",
+  "state-province": null,
+  "web_pages": [
+    "http://www.baraodemaua.br/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222f286b0ef20ef29e590d8"
+  },
+  "country": "Brazil",
+  "name": "Universidade Braz Cubas",
+  "domains": [
+    "brazcubas.br"
+  ],
+  "alpha_two_code": "BR",
+  "state-province": null,
+  "web_pages": [
+    "http://www.brazcubas.br/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222f286b0ef20ef29e590d9"
+  },
+  "country": "Brazil",
+  "name": "Universidade Candido Mendes",
+  "domains": [
+    "candidomendes.br"
+  ],
+  "alpha_two_code": "BR",
+  "state-province": null,
+  "web_pages": [
+    "http://www.candidomendes.br/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222f286b0ef20ef29e590da"
+  },
+  "country": "Brazil",
+  "name": "Universidade Castelo Branco",
+  "domains": [
+    "castelobranco.br"
+  ],
+  "alpha_two_code": "BR",
+  "state-province": null,
+  "web_pages": [
+    "http://www.castelobranco.br/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222f286b0ef20ef29e590db"
+  },
+  "country": "Brazil",
+  "name": "Centro Universitário Claretiano",
+  "domains": [
+    "claretiano.edu.br"
+  ],
+  "alpha_two_code": "BR",
+  "state-province": null,
+  "web_pages": [
+    "http://www.claretiano.edu.br/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222f286b0ef20ef29e590dc"
+  },
+  "country": "Cameroon",
+  "name": "Bamenda University of Science & Technology",
+  "domains": [
+    "bamendauniversity.com"
+  ],
+  "alpha_two_code": "CM",
+  "state-province": null,
+  "web_pages": [
+    "http://www.bamendauniversity.com/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222f286b0ef20ef29e590dd"
+  },
+  "country": "Cameroon",
+  "name": "Fomic Polytechnic",
+  "domains": [
+    "fomicgroup.cm"
+  ],
+  "alpha_two_code": "CM",
+  "state-province": null,
+  "web_pages": [
+    "http://www.fomicgroup.cm/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222f286b0ef20ef29e590de"
+  },
+  "country": "Cameroon",
+  "name": "Université de Buéa",
+  "domains": [
+    "ubuea.cm"
+  ],
+  "alpha_two_code": "CM",
+  "state-province": null,
+  "web_pages": [
+    "http://www.ubuea.cm/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222f286b0ef20ef29e590df"
+  },
+  "country": "Cameroon",
+  "name": "Université des Montagnes",
+  "domains": [
+    "udesmontagnes.org"
+  ],
+  "alpha_two_code": "CM",
+  "state-province": null,
+  "web_pages": [
+    "http://www.udesmontagnes.org/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222f286b0ef20ef29e590e0"
+  },
+  "country": "Cameroon",
+  "name": "Université de Bamenda",
+  "domains": [
+    "unibda.net"
+  ],
+  "alpha_two_code": "CM",
+  "state-province": null,
+  "web_pages": [
+    "http://www.unibda.net/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222f286b0ef20ef29e590e1"
+  },
+  "country": "Egypt",
+  "name": "Arab Academy for Science & Technology",
+  "domains": [
+    "aast.edu"
+  ],
+  "alpha_two_code": "EG",
+  "state-province": null,
+  "web_pages": [
+    "http://www.aast.edu/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222f286b0ef20ef29e590e2"
+  },
+  "country": "Egypt",
+  "name": "Akhbar El Yom Academy",
+  "domains": [
+    "akhbaracademy.edu.eg"
+  ],
+  "alpha_two_code": "EG",
+  "state-province": null,
+  "web_pages": [
+    "http://www.akhbaracademy.edu.eg/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222f286b0ef20ef29e590e3"
+  },
+  "country": "Egypt",
+  "name": "Alexandria University",
+  "domains": [
+    "alex.edu.eg"
+  ],
+  "alpha_two_code": "EG",
+  "state-province": null,
+  "web_pages": [
+    "http://www.alex.edu.eg/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222f286b0ef20ef29e590e4"
+  },
+  "country": "Egypt",
+  "name": "Arab Open University",
+  "domains": [
+    "aou.edu.eg"
+  ],
+  "alpha_two_code": "EG",
+  "state-province": null,
+  "web_pages": [
+    "http://www.aou.edu.eg/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222f286b0ef20ef29e590e5"
+  },
+  "country": "Egypt",
+  "name": "American University in Cairo",
+  "domains": [
+    "aucegypt.edu"
+  ],
+  "alpha_two_code": "EG",
+  "state-province": null,
+  "web_pages": [
+    "http://www.aucegypt.edu/"
+  ]
+}]
