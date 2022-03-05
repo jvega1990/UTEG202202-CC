@@ -1,0 +1,330 @@
+[{
+  "_id": {
+    "$oid": "6222d1bec4db6a2aed94712a"
+  },
+  "country": "Denmark",
+  "name": "Aarhus School of Architecture",
+  "domains": [
+    "a-aarhus.dk"
+  ],
+  "alpha_two_code": "DK",
+  "web_pages": [
+    "http://www.a-aarhus.dk/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222d1bec4db6a2aed94712b"
+  },
+  "country": "Denmark",
+  "name": "Copenhagen Business School",
+  "domains": [
+    "cbs.dk"
+  ],
+  "alpha_two_code": "DK",
+  "web_pages": [
+    "http://www.cbs.dk/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222d1bec4db6a2aed94712c"
+  },
+  "country": "Denmark",
+  "name": "Royal School of Library and Information Science",
+  "domains": [
+    "db.dk"
+  ],
+  "alpha_two_code": "DK",
+  "web_pages": [
+    "http://www.db.dk/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222d1bec4db6a2aed94712d"
+  },
+  "country": "Denmark",
+  "name": "Danish Business Academy",
+  "domains": [
+    "ddea.dk"
+  ],
+  "alpha_two_code": "DK",
+  "web_pages": [
+    "http://www.ddea.dk/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222d1bec4db6a2aed94712e"
+  },
+  "country": "Denmark",
+  "name": "Royal Danish School of Pharmacy",
+  "domains": [
+    "dfh.dk"
+  ],
+  "alpha_two_code": "DK",
+  "web_pages": [
+    "http://www.dfh.dk/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222d1bec4db6a2aed94712f"
+  },
+  "country": "Australia",
+  "name": "Australian Correspondence Schools",
+  "domains": [
+    "acs.edu.au"
+  ],
+  "alpha_two_code": "AU",
+  "web_pages": [
+    "http://www.acs.edu.au/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222d1bec4db6a2aed947130"
+  },
+  "country": "Australia",
+  "name": "Australian Catholic University",
+  "domains": [
+    "acu.edu.au"
+  ],
+  "alpha_two_code": "AU",
+  "web_pages": [
+    "http://www.acu.edu.au/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222d1bec4db6a2aed947131"
+  },
+  "country": "Australia",
+  "name": "University of Adelaide",
+  "domains": [
+    "adelaide.edu.au"
+  ],
+  "alpha_two_code": "AU",
+  "web_pages": [
+    "http://www.adelaide.edu.au/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222d1bec4db6a2aed947132"
+  },
+  "country": "Australia",
+  "name": "Australian Defence Force Academy",
+  "domains": [
+    "adfa.oz.au"
+  ],
+  "alpha_two_code": "AU",
+  "web_pages": [
+    "http://www.adfa.oz.au/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222d1bec4db6a2aed947133"
+  },
+  "country": "Australia",
+  "name": "Australian Lutheran College",
+  "domains": [
+    "alc.edu.au"
+  ],
+  "alpha_two_code": "AU",
+  "web_pages": [
+    "http://www.alc.edu.au/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222d1bec4db6a2aed947134"
+  },
+  "country": "Austria",
+  "name": "Akademie der bildenden Künste Wien",
+  "domains": [
+    "akbild.ac.at"
+  ],
+  "alpha_two_code": "AT",
+  "web_pages": [
+    "http://www.akbild.ac.at/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222d1bec4db6a2aed947135"
+  },
+  "country": "Austria",
+  "name": "Universität für Bodenkultur Wien",
+  "domains": [
+    "boku.ac.at"
+  ],
+  "alpha_two_code": "AT",
+  "web_pages": [
+    "http://www.boku.ac.at/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222d1bec4db6a2aed947136"
+  },
+  "country": "Austria",
+  "name": "Donau-Universität Krems",
+  "domains": [
+    "donau-uni.ac.at"
+  ],
+  "alpha_two_code": "AT",
+  "web_pages": [
+    "http://www.donau-uni.ac.at/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222d1bec4db6a2aed947137"
+  },
+  "country": "Austria",
+  "name": "Fachhochschule Burgenland",
+  "domains": [
+    "fh-burgenland.at"
+  ],
+  "alpha_two_code": "AT",
+  "web_pages": [
+    "http://www.fh-burgenland.at/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222d1bec4db6a2aed947138"
+  },
+  "country": "Austria",
+  "name": "Fachhochschulstudiengänge Hagenberg",
+  "domains": [
+    "fh-hagenberg.at"
+  ],
+  "alpha_two_code": "AT",
+  "web_pages": [
+    "http://www.fh-hagenberg.at/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222d1bec4db6a2aed947139"
+  },
+  "country": "Germany",
+  "name": "AKAD Hochschulen für Berufstätige, Fachhochschule Leipzig",
+  "domains": [
+    "akad.de"
+  ],
+  "alpha_two_code": "DE",
+  "web_pages": [
+    "http://www.akad.de/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222d1bec4db6a2aed94713a"
+  },
+  "country": "Germany",
+  "name": "Hochschule für Berufstätige Rendsburg",
+  "domains": [
+    "akad.de"
+  ],
+  "alpha_two_code": "DE",
+  "web_pages": [
+    "http://www.akad.de/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222d1bec4db6a2aed94713b"
+  },
+  "country": "Germany",
+  "name": "Alice-Salomon-Fachhochschule für Sozialarbeit und Sozialpädagogik Berlin",
+  "domains": [
+    "asfh-berlin.de"
+  ],
+  "alpha_two_code": "DE",
+  "web_pages": [
+    "http://www.asfh-berlin.de/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222d1bec4db6a2aed94713c"
+  },
+  "country": "Germany",
+  "name": "Augustana Hochschule Neuendettelsau",
+  "domains": [
+    "augustana.de"
+  ],
+  "alpha_two_code": "DE",
+  "web_pages": [
+    "http://www.augustana.de/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222d1bec4db6a2aed94713d"
+  },
+  "country": "Germany",
+  "name": "Kirchliche Hochschule Bethel",
+  "domains": [
+    "bethel.de"
+  ],
+  "alpha_two_code": "DE",
+  "web_pages": [
+    "http://www.bethel.de/kiho/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222d1bec4db6a2aed94713e"
+  },
+  "country": "Canada",
+  "name": "Cégep de Saint-Jérôme",
+  "domains": [
+    "cstj.qc.ca"
+  ],
+  "alpha_two_code": "CA",
+  "web_pages": [
+    "https://www.cstj.qc.ca",
+    "https://ccmt.cstj.qc.ca",
+    "https://ccml.cstj.qc.ca"
+  ]
+},{
+  "_id": {
+    "$oid": "6222d1bec4db6a2aed94713f"
+  },
+  "country": "Canada",
+  "name": "Lambton College",
+  "domains": [
+    "lambtoncollege.ca",
+    "mylambton.ca"
+  ],
+  "alpha_two_code": "CA",
+  "state-province": "Sarnia",
+  "web_pages": [
+    "https://www.lambtoncollege.ca"
+  ]
+},{
+  "_id": {
+    "$oid": "6222d1bec4db6a2aed947140"
+  },
+  "country": "Canada",
+  "name": "Acadia University",
+  "domains": [
+    "acadiau.ca"
+  ],
+  "alpha_two_code": "CA",
+  "web_pages": [
+    "http://www.acadiau.ca/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222d1bec4db6a2aed947141"
+  },
+  "country": "Canada",
+  "name": "Algonquin College",
+  "domains": [
+    "algonquincollege.com"
+  ],
+  "alpha_two_code": "CA",
+  "web_pages": [
+    "http://www.algonquincollege.com/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222d1bec4db6a2aed947142"
+  },
+  "country": "Canada",
+  "name": "Ashton College",
+  "domains": [
+    "ashtoncollege.com"
+  ],
+  "alpha_two_code": "CA",
+  "web_pages": [
+    "http://www.ashtoncollege.com/"
+  ]
+}]
