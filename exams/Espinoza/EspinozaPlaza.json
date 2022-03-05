@@ -1,0 +1,357 @@
+[{
+  "_id": {
+    "$oid": "6222ac16ea57104ec2984ae3"
+  },
+  "Nombre Estudiante": "Bryan Anderson Espinoza Plaza",
+  "Universidad": "UTEG"
+},{
+  "_id": {
+    "$oid": "6222ad48ea57104ec2984ae5"
+  },
+  "country": "Paraguay",
+  "name": "Universidad Columbia del Paraguay",
+  "domains": [
+    "columbia.edu.py"
+  ],
+  "alpha_two_code": "PY",
+  "state-province": null,
+  "web_pages": [
+    "http://www.columbia.edu.py/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222ad48ea57104ec2984ae6"
+  },
+  "country": "Paraguay",
+  "name": "Universidad Autónoma de Asunción",
+  "domains": [
+    "uaa.edu.py"
+  ],
+  "alpha_two_code": "PY",
+  "state-province": null,
+  "web_pages": [
+    "http://www.uaa.edu.py/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222ad48ea57104ec2984ae7"
+  },
+  "country": "Paraguay",
+  "name": "Universidad Americana",
+  "domains": [
+    "uamericana.edu.py"
+  ],
+  "alpha_two_code": "PY",
+  "state-province": null,
+  "web_pages": [
+    "http://www.uamericana.edu.py/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222ad48ea57104ec2984ae8"
+  },
+  "country": "Paraguay",
+  "name": "Universidad Autónoma del Paraguay",
+  "domains": [
+    "uap.edu.py"
+  ],
+  "alpha_two_code": "PY",
+  "state-province": null,
+  "web_pages": [
+    "http://www.uap.edu.py/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222ad48ea57104ec2984ae9"
+  },
+  "country": "Paraguay",
+  "name": "Universidad Católica Nuestra Senora de la Asunción",
+  "domains": [
+    "uc.edu.py"
+  ],
+  "alpha_two_code": "PY",
+  "state-province": null,
+  "web_pages": [
+    "http://www.uc.edu.py/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222add2ea57104ec2984aeb"
+  },
+  "country": "Peru",
+  "name": "Universidad Marcelino Champagnat",
+  "domains": [
+    "champagnat.edu.pe"
+  ],
+  "alpha_two_code": "PE",
+  "state-province": null,
+  "web_pages": [
+    "http://www.champagnat.edu.pe/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222add2ea57104ec2984aec"
+  },
+  "country": "Peru",
+  "name": "Universidad Nacional Agraria La Molina",
+  "domains": [
+    "lamolina.edu.pe"
+  ],
+  "alpha_two_code": "PE",
+  "state-province": null,
+  "web_pages": [
+    "http://www.lamolina.edu.pe/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222add2ea57104ec2984aed"
+  },
+  "country": "Peru",
+  "name": "Pontificia Universidad Católica del Perú",
+  "domains": [
+    "pucp.edu.pe"
+  ],
+  "alpha_two_code": "PE",
+  "state-province": null,
+  "web_pages": [
+    "http://www.pucp.edu.pe/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222add2ea57104ec2984aee"
+  },
+  "country": "Peru",
+  "name": "Universidad San Ignacio de Loyola",
+  "domains": [
+    "sil.edu.pe"
+  ],
+  "alpha_two_code": "PE",
+  "state-province": null,
+  "web_pages": [
+    "http://www.sil.edu.pe/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222add2ea57104ec2984aef"
+  },
+  "country": "Peru",
+  "name": "Universidad Andina Nestor Caceares Velasquez",
+  "domains": [
+    "uancv.edu.pe"
+  ],
+  "alpha_two_code": "PE",
+  "state-province": null,
+  "web_pages": [
+    "http://www.uancv.edu.pe/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222ae39ea57104ec2984af1"
+  },
+  "country": "Mexico",
+  "name": "Universidad Anáhuac",
+  "domains": [
+    "anahuac.mx"
+  ],
+  "alpha_two_code": "MX",
+  "state-province": null,
+  "web_pages": [
+    "http://www.anahuac.mx/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222ae39ea57104ec2984af2"
+  },
+  "country": "Mexico",
+  "name": "Universidad de La Salle, Bajío",
+  "domains": [
+    "bajio.delasalle.edu.mx"
+  ],
+  "alpha_two_code": "MX",
+  "state-province": null,
+  "web_pages": [
+    "http://bajio.delasalle.edu.mx/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222ae39ea57104ec2984af3"
+  },
+  "country": "Mexico",
+  "name": "Benemerita Universidad Autónoma de Puebla",
+  "domains": [
+    "buap.mx"
+  ],
+  "alpha_two_code": "MX",
+  "state-province": null,
+  "web_pages": [
+    "http://www.buap.mx/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222ae39ea57104ec2984af4"
+  },
+  "country": "Mexico",
+  "name": "Universidad de Guanajuato, Campus León",
+  "domains": [
+    "campusleon.ugto.mx"
+  ],
+  "alpha_two_code": "MX",
+  "state-province": null,
+  "web_pages": [
+    "http://www.campusleon.ugto.mx/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222ae39ea57104ec2984af5"
+  },
+  "country": "Mexico",
+  "name": "Centro de Enseñanza Técnica Industrial",
+  "domains": [
+    "ceti.mx"
+  ],
+  "alpha_two_code": "MX",
+  "state-province": null,
+  "web_pages": [
+    "http://www.ceti.mx/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222ae8aea57104ec2984af7"
+  },
+  "country": "Cuba",
+  "name": "Instituto Superior Politécnico José Antonio Echeverría",
+  "domains": [
+    "cujae.edu.cu"
+  ],
+  "alpha_two_code": "CU",
+  "state-province": null,
+  "web_pages": [
+    "http://www.cujae.edu.cu/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222ae8aea57104ec2984af8"
+  },
+  "country": "Cuba",
+  "name": "Instituto Superior Minero Metalúrgico \"Dr. Antonio Núñez Jiménez\"",
+  "domains": [
+    "ismm.edu.cu"
+  ],
+  "alpha_two_code": "CU",
+  "state-province": null,
+  "web_pages": [
+    "http://www.ismm.edu.cu/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222ae8aea57104ec2984af9"
+  },
+  "country": "Cuba",
+  "name": "Universidad Pedagógica \"José Martí\", Camagüey",
+  "domains": [
+    "ispcmw.rimed.cu"
+  ],
+  "alpha_two_code": "CU",
+  "state-province": null,
+  "web_pages": [
+    "http://www.ispcmw.rimed.cu/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222ae8aea57104ec2984afa"
+  },
+  "country": "Cuba",
+  "name": "Universidad de Camagüey",
+  "domains": [
+    "reduc.edu.cu"
+  ],
+  "alpha_two_code": "CU",
+  "state-province": null,
+  "web_pages": [
+    "http://www.reduc.edu.cu/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222ae8aea57104ec2984afb"
+  },
+  "country": "Cuba",
+  "name": "Universidad de Cienfuegos",
+  "domains": [
+    "ucf.edu.cu"
+  ],
+  "alpha_two_code": "CU",
+  "state-province": null,
+  "web_pages": [
+    "http://www.ucf.edu.cu/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222af01ea57104ec2984aff"
+  },
+  "country": "Honduras",
+  "name": "Universidad José Cecilio del Valle",
+  "domains": [
+    "ujcv.edu.hn"
+  ],
+  "alpha_two_code": "HN",
+  "state-province": null,
+  "web_pages": [
+    "http://www.ujcv.edu.hn/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222af01ea57104ec2984b00"
+  },
+  "country": "Honduras",
+  "name": "Universidad Nacional Autónoma de Honduras",
+  "domains": [
+    "unah.edu.hn"
+  ],
+  "alpha_two_code": "HN",
+  "state-province": null,
+  "web_pages": [
+    "http://www.unah.edu.hn/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222af01ea57104ec2984b01"
+  },
+  "country": "Honduras",
+  "name": "Universidad Católica de Honduras",
+  "domains": [
+    "unicah.edu"
+  ],
+  "alpha_two_code": "HN",
+  "state-province": null,
+  "web_pages": [
+    "http://www.unicah.edu/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222af01ea57104ec2984b02"
+  },
+  "country": "Honduras",
+  "name": "Universidad Metropolitana de Honduras",
+  "domains": [
+    "unimetro.edu.hn"
+  ],
+  "alpha_two_code": "HN",
+  "state-province": null,
+  "web_pages": [
+    "http://www.unimetro.edu.hn/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222af01ea57104ec2984b03"
+  },
+  "country": "Honduras",
+  "name": "Universidad Tecnológica Centroamericana",
+  "domains": [
+    "unitec.edu"
+  ],
+  "alpha_two_code": "HN",
+  "state-province": null,
+  "web_pages": [
+    "http://www.unitec.edu/"
+  ]
+}]
