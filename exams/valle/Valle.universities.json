@@ -1,0 +1,354 @@
+[{
+  "_id": {
+    "$oid": "6222f40a2d6a02f117b2bd6f"
+  },
+  "country": "Canada",
+  "name": "Cégep de Saint-Jérôme",
+  "domains": [
+    "cstj.qc.ca"
+  ],
+  "alpha_two_code": "CA",
+  "state-province": null,
+  "web_pages": [
+    "https://www.cstj.qc.ca",
+    "https://ccmt.cstj.qc.ca",
+    "https://ccml.cstj.qc.ca"
+  ]
+},{
+  "_id": {
+    "$oid": "6222f40a2d6a02f117b2bd70"
+  },
+  "country": "Canada",
+  "name": "Lambton College",
+  "domains": [
+    "lambtoncollege.ca",
+    "mylambton.ca"
+  ],
+  "alpha_two_code": "CA",
+  "state-province": "Sarnia",
+  "web_pages": [
+    "https://www.lambtoncollege.ca"
+  ]
+},{
+  "_id": {
+    "$oid": "6222f40a2d6a02f117b2bd71"
+  },
+  "country": "Canada",
+  "name": "Acadia University",
+  "domains": [
+    "acadiau.ca"
+  ],
+  "alpha_two_code": "CA",
+  "state-province": null,
+  "web_pages": [
+    "http://www.acadiau.ca/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222f40a2d6a02f117b2bd72"
+  },
+  "country": "Canada",
+  "name": "Algonquin College",
+  "domains": [
+    "algonquincollege.com"
+  ],
+  "alpha_two_code": "CA",
+  "state-province": null,
+  "web_pages": [
+    "http://www.algonquincollege.com/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222f40a2d6a02f117b2bd73"
+  },
+  "country": "Canada",
+  "name": "Ashton College",
+  "domains": [
+    "ashtoncollege.com"
+  ],
+  "alpha_two_code": "CA",
+  "state-province": null,
+  "web_pages": [
+    "http://www.ashtoncollege.com/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222f40a2d6a02f117b2bd74"
+  },
+  "country": "Peru",
+  "name": "Universidad Marcelino Champagnat",
+  "domains": [
+    "champagnat.edu.pe"
+  ],
+  "alpha_two_code": "PE",
+  "state-province": null,
+  "web_pages": [
+    "http://www.champagnat.edu.pe/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222f40a2d6a02f117b2bd75"
+  },
+  "country": "Peru",
+  "name": "Universidad Nacional Agraria La Molina",
+  "domains": [
+    "lamolina.edu.pe"
+  ],
+  "alpha_two_code": "PE",
+  "state-province": null,
+  "web_pages": [
+    "http://www.lamolina.edu.pe/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222f40a2d6a02f117b2bd76"
+  },
+  "country": "Peru",
+  "name": "Pontificia Universidad Católica del Perú",
+  "domains": [
+    "pucp.edu.pe"
+  ],
+  "alpha_two_code": "PE",
+  "state-province": null,
+  "web_pages": [
+    "http://www.pucp.edu.pe/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222f40a2d6a02f117b2bd77"
+  },
+  "country": "Peru",
+  "name": "Universidad San Ignacio de Loyola",
+  "domains": [
+    "sil.edu.pe"
+  ],
+  "alpha_two_code": "PE",
+  "state-province": null,
+  "web_pages": [
+    "http://www.sil.edu.pe/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222f40a2d6a02f117b2bd78"
+  },
+  "country": "Peru",
+  "name": "Universidad Andina Nestor Caceares Velasquez",
+  "domains": [
+    "uancv.edu.pe"
+  ],
+  "alpha_two_code": "PE",
+  "state-province": null,
+  "web_pages": [
+    "http://www.uancv.edu.pe/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222f40a2d6a02f117b2bd79"
+  },
+  "country": "Colombia",
+  "name": "Universidad Autónoma de Manizales",
+  "domains": [
+    "autonoma.edu.co"
+  ],
+  "alpha_two_code": "CO",
+  "state-province": null,
+  "web_pages": [
+    "http://www.autonoma.edu.co/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222f40a2d6a02f117b2bd7a"
+  },
+  "country": "Colombia",
+  "name": "Universidad Bellas Artes",
+  "domains": [
+    "bellasartes.edu.co"
+  ],
+  "alpha_two_code": "CO",
+  "state-province": null,
+  "web_pages": [
+    "http://www.bellasartes.edu.co/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222f40a2d6a02f117b2bd7b"
+  },
+  "country": "Colombia",
+  "name": "Conservatorio del Tolima",
+  "domains": [
+    "bundenet.com"
+  ],
+  "alpha_two_code": "CO",
+  "state-province": null,
+  "web_pages": [
+    "http://www.bundenet.com/umusical/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222f40a2d6a02f117b2bd7c"
+  },
+  "country": "Colombia",
+  "name": "Colegio de Estudios Superiores de Administración (CESA)",
+  "domains": [
+    "cesa.edu.co"
+  ],
+  "alpha_two_code": "CO",
+  "state-province": null,
+  "web_pages": [
+    "http://www.cesa.edu.co/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222f40a2d6a02f117b2bd7d"
+  },
+  "country": "Colombia",
+  "name": "Universidad CES",
+  "domains": [
+    "ces.edu.co"
+  ],
+  "alpha_two_code": "CO",
+  "state-province": null,
+  "web_pages": [
+    "http://www.ces.edu.co/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222f40a2d6a02f117b2bd7e"
+  },
+  "country": "Uruguay",
+  "name": "Insituto Universitario - Centro Latinoamericano de Economia Humana - IU Claeh",
+  "domains": [
+    "claeh.edu.uy"
+  ],
+  "alpha_two_code": "UY",
+  "state-province": null,
+  "web_pages": [
+    "http://www.claeh.edu.uy/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222f40a2d6a02f117b2bd7f"
+  },
+  "country": "Uruguay",
+  "name": "Universidad ORT Uruguay",
+  "domains": [
+    "ort.edu.uy"
+  ],
+  "alpha_two_code": "UY",
+  "state-province": null,
+  "web_pages": [
+    "http://www.ort.edu.uy/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222f40a2d6a02f117b2bd80"
+  },
+  "country": "Uruguay",
+  "name": "Universidad Católica del Uruguay",
+  "domains": [
+    "ucu.edu.uy"
+  ],
+  "alpha_two_code": "UY",
+  "state-province": null,
+  "web_pages": [
+    "http://www.ucu.edu.uy/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222f40a2d6a02f117b2bd81"
+  },
+  "country": "Uruguay",
+  "name": "Universidad de la Empresa (UDE)",
+  "domains": [
+    "ude.edu.uy"
+  ],
+  "alpha_two_code": "UY",
+  "state-province": null,
+  "web_pages": [
+    "http://www.ude.edu.uy/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222f40a2d6a02f117b2bd82"
+  },
+  "country": "Uruguay",
+  "name": "Universidad de Montevideo",
+  "domains": [
+    "um.edu.uy"
+  ],
+  "alpha_two_code": "UY",
+  "state-province": null,
+  "web_pages": [
+    "http://www.um.edu.uy/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222f40a2d6a02f117b2bd83"
+  },
+  "country": "Panama",
+  "name": "Columbus University",
+  "domains": [
+    "columbus.edu"
+  ],
+  "alpha_two_code": "PA",
+  "state-province": null,
+  "web_pages": [
+    "http://www.columbus.edu/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222f40a2d6a02f117b2bd84"
+  },
+  "country": "Panama",
+  "name": "Floret Global University",
+  "domains": [
+    "floret.edu.pa"
+  ],
+  "alpha_two_code": "PA",
+  "state-province": null,
+  "web_pages": [
+    "http://www.floret.edu.pa/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222f40a2d6a02f117b2bd85"
+  },
+  "country": "Panama",
+  "name": "Instituto de Enseñanza Superior Oteima",
+  "domains": [
+    "institutoteima.ac.pa"
+  ],
+  "alpha_two_code": "PA",
+  "state-province": null,
+  "web_pages": [
+    "http://www.institutoteima.ac.pa/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222f40a2d6a02f117b2bd86"
+  },
+  "country": "Panama",
+  "name": "Universidad Tecnológica Oteima",
+  "domains": [
+    "oteima.ac.pa"
+  ],
+  "alpha_two_code": "PA",
+  "state-province": null,
+  "web_pages": [
+    "http://www.oteima.ac.pa/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222f40a2d6a02f117b2bd87"
+  },
+  "country": "Panama",
+  "name": "Universidad de Cartago",
+  "domains": [
+    "ucapanama.org"
+  ],
+  "alpha_two_code": "PA",
+  "state-province": null,
+  "web_pages": [
+    "http://www.ucapanama.org/"
+  ]
+}]
