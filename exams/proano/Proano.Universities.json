@@ -1,0 +1,351 @@
+[{
+  "_id": {
+    "$oid": "6222f1777d713eefeb7ef2e8"
+  },
+  "country": "India",
+  "name": "University of Petroleum and Energy Studies",
+  "domains": [
+    "upes.ac.in"
+  ],
+  "alpha_two_code": "IN",
+  "state-province": "Dehradun",
+  "web_pages": [
+    "https://www.upes.ac.in/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222f1777d713eefeb7ef2e9"
+  },
+  "country": "India",
+  "name": "DAV Institute of Engineering & Technology",
+  "domains": [
+    "davietjal.org"
+  ],
+  "alpha_two_code": "IN",
+  "state-province": "Punjab",
+  "web_pages": [
+    "http://www.davietjal.org/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222f1777d713eefeb7ef2ea"
+  },
+  "country": "India",
+  "name": "Lovely Professional University",
+  "domains": [
+    "lpu.in"
+  ],
+  "alpha_two_code": "IN",
+  "state-province": "Punjab",
+  "web_pages": [
+    "http://www.lpu.in/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222f1777d713eefeb7ef2eb"
+  },
+  "country": "India",
+  "name": "Somaiya Vidyavihar",
+  "domains": [
+    "somaiya.edu"
+  ],
+  "alpha_two_code": "IN",
+  "state-province": null,
+  "web_pages": [
+    "https://somaiya.edu/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222f1777d713eefeb7ef2ec"
+  },
+  "country": "India",
+  "name": "NorthCap University",
+  "domains": [
+    "ncuindia.edu"
+  ],
+  "alpha_two_code": "IN",
+  "state-province": "Haryana",
+  "web_pages": [
+    "http://www.ncuindia.edu/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222f1777d713eefeb7ef2ed"
+  },
+  "country": "Croatia",
+  "name": "University of Dubrovnik",
+  "domains": [
+    "unidu.hr"
+  ],
+  "alpha_two_code": "HR",
+  "state-province": null,
+  "web_pages": [
+    "http://www.unidu.hr/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222f1777d713eefeb7ef2ee"
+  },
+  "country": "Croatia",
+  "name": "University of Osijek",
+  "domains": [
+    "unios.hr"
+  ],
+  "alpha_two_code": "HR",
+  "state-province": null,
+  "web_pages": [
+    "http://www.unios.hr/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222f1777d713eefeb7ef2ef"
+  },
+  "country": "Croatia",
+  "name": "University of Pula",
+  "domains": [
+    "unipu.hr"
+  ],
+  "alpha_two_code": "HR",
+  "state-province": null,
+  "web_pages": [
+    "http://www.unipu.hr/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222f1777d713eefeb7ef2f0"
+  },
+  "country": "Croatia",
+  "name": "University of Rijeka",
+  "domains": [
+    "uniri.hr"
+  ],
+  "alpha_two_code": "HR",
+  "state-province": null,
+  "web_pages": [
+    "http://www.uniri.hr/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222f1777d713eefeb7ef2f1"
+  },
+  "country": "Croatia",
+  "name": "University of Split",
+  "domains": [
+    "unist.hr"
+  ],
+  "alpha_two_code": "HR",
+  "state-province": null,
+  "web_pages": [
+    "http://www.unist.hr/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222f1777d713eefeb7ef2f2"
+  },
+  "country": "Mongolia",
+  "name": "Health sciences University of Mongolia",
+  "domains": [
+    "hsum-ac.mn"
+  ],
+  "alpha_two_code": "MN",
+  "state-province": null,
+  "web_pages": [
+    "http://www.hsum-ac.mn/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222f1777d713eefeb7ef2f3"
+  },
+  "country": "Mongolia",
+  "name": "University of the Humanities",
+  "domains": [
+    "humanities.mn"
+  ],
+  "alpha_two_code": "MN",
+  "state-province": null,
+  "web_pages": [
+    "http://www.humanities.mn/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222f1777d713eefeb7ef2f4"
+  },
+  "country": "Mongolia",
+  "name": "Institute of Commerce and Business",
+  "domains": [
+    "icb.edu.mn"
+  ],
+  "alpha_two_code": "MN",
+  "state-province": null,
+  "web_pages": [
+    "http://www.icb.edu.mn/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222f1777d713eefeb7ef2f5"
+  },
+  "country": "Mongolia",
+  "name": "Mongolian State University of Arts and Culture",
+  "domains": [
+    "msuac.edu.mn"
+  ],
+  "alpha_two_code": "MN",
+  "state-province": null,
+  "web_pages": [
+    "http://www.msuac.edu.mn/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222f1777d713eefeb7ef2f6"
+  },
+  "country": "Mongolia",
+  "name": "Mongolian State University of Agriculture",
+  "domains": [
+    "msua.edu.mn"
+  ],
+  "alpha_two_code": "MN",
+  "state-province": null,
+  "web_pages": [
+    "http://www.msua.edu.mn/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222f1777d713eefeb7ef2f7"
+  },
+  "country": "Germany",
+  "name": "AKAD Hochschulen für Berufstätige, Fachhochschule Leipzig",
+  "domains": [
+    "akad.de"
+  ],
+  "alpha_two_code": "DE",
+  "state-province": null,
+  "web_pages": [
+    "http://www.akad.de/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222f1777d713eefeb7ef2f8"
+  },
+  "country": "Germany",
+  "name": "Hochschule für Berufstätige Rendsburg",
+  "domains": [
+    "akad.de"
+  ],
+  "alpha_two_code": "DE",
+  "state-province": null,
+  "web_pages": [
+    "http://www.akad.de/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222f1777d713eefeb7ef2f9"
+  },
+  "country": "Germany",
+  "name": "Alice-Salomon-Fachhochschule für Sozialarbeit und Sozialpädagogik Berlin",
+  "domains": [
+    "asfh-berlin.de"
+  ],
+  "alpha_two_code": "DE",
+  "state-province": null,
+  "web_pages": [
+    "http://www.asfh-berlin.de/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222f1777d713eefeb7ef2fa"
+  },
+  "country": "Germany",
+  "name": "Augustana Hochschule Neuendettelsau",
+  "domains": [
+    "augustana.de"
+  ],
+  "alpha_two_code": "DE",
+  "state-province": null,
+  "web_pages": [
+    "http://www.augustana.de/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222f1777d713eefeb7ef2fb"
+  },
+  "country": "Germany",
+  "name": "Kirchliche Hochschule Bethel",
+  "domains": [
+    "bethel.de"
+  ],
+  "alpha_two_code": "DE",
+  "state-province": null,
+  "web_pages": [
+    "http://www.bethel.de/kiho/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222f1777d713eefeb7ef2fc"
+  },
+  "country": "India",
+  "name": "University of Petroleum and Energy Studies",
+  "domains": [
+    "upes.ac.in"
+  ],
+  "alpha_two_code": "IN",
+  "state-province": "Dehradun",
+  "web_pages": [
+    "https://www.upes.ac.in/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222f1777d713eefeb7ef2fd"
+  },
+  "country": "India",
+  "name": "DAV Institute of Engineering & Technology",
+  "domains": [
+    "davietjal.org"
+  ],
+  "alpha_two_code": "IN",
+  "state-province": "Punjab",
+  "web_pages": [
+    "http://www.davietjal.org/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222f1777d713eefeb7ef2fe"
+  },
+  "country": "India",
+  "name": "Lovely Professional University",
+  "domains": [
+    "lpu.in"
+  ],
+  "alpha_two_code": "IN",
+  "state-province": "Punjab",
+  "web_pages": [
+    "http://www.lpu.in/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222f1777d713eefeb7ef2ff"
+  },
+  "country": "India",
+  "name": "Somaiya Vidyavihar",
+  "domains": [
+    "somaiya.edu"
+  ],
+  "alpha_two_code": "IN",
+  "state-province": null,
+  "web_pages": [
+    "https://somaiya.edu/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222f1777d713eefeb7ef300"
+  },
+  "country": "India",
+  "name": "NorthCap University",
+  "domains": [
+    "ncuindia.edu"
+  ],
+  "alpha_two_code": "IN",
+  "state-province": "Haryana",
+  "web_pages": [
+    "http://www.ncuindia.edu/"
+  ]
+}]
