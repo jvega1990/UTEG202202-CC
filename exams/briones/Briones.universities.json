@@ -1,0 +1,352 @@
+[{
+  "_id": {
+    "$oid": "6222f3efb5f776967cbb4b0e"
+  },
+  "country": "Portugal",
+  "name": "Instituto Superior de Informática e Gestão",
+  "domains": [
+    "cocite.pt"
+  ],
+  "alpha_two_code": "PT",
+  "state-province": null,
+  "web_pages": [
+    "http://www.cocite.pt/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222f3efb5f776967cbb4b0f"
+  },
+  "country": "Portugal",
+  "name": "Escola Nautica Infante D. Henrique",
+  "domains": [
+    "enautica.pt"
+  ],
+  "alpha_two_code": "PT",
+  "state-province": null,
+  "web_pages": [
+    "http://www.enautica.pt/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222f3efb5f776967cbb4b10"
+  },
+  "country": "Portugal",
+  "name": "Escola Superior de Artes e Design",
+  "domains": [
+    "esad.pt"
+  ],
+  "alpha_two_code": "PT",
+  "state-province": null,
+  "web_pages": [
+    "http://www.esad.pt/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222f3efb5f776967cbb4b11"
+  },
+  "country": "Portugal",
+  "name": "Escola Superior de Hotelaria e Turismo do Estoril",
+  "domains": [
+    "eshte.pt"
+  ],
+  "alpha_two_code": "PT",
+  "state-province": null,
+  "web_pages": [
+    "http://www.eshte.pt/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222f3efb5f776967cbb4b12"
+  },
+  "country": "Portugal",
+  "name": "European University Portugal",
+  "domains": [
+    "europeanuniversity.pt"
+  ],
+  "alpha_two_code": "PT",
+  "state-province": null,
+  "web_pages": [
+    "http://www.europeanuniversity.pt/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222f3efb5f776967cbb4b13"
+  },
+  "country": "Italy",
+  "name": "Pontificia Università S. Tommaso",
+  "domains": [
+    "angelicum.org"
+  ],
+  "alpha_two_code": "IT",
+  "state-province": null,
+  "web_pages": [
+    "http://www.angelicum.org/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222f3efb5f776967cbb4b14"
+  },
+  "country": "Italy",
+  "name": "Pontificio Ateneo Antonianum",
+  "domains": [
+    "antonianum.ofm.org"
+  ],
+  "alpha_two_code": "IT",
+  "state-province": null,
+  "web_pages": [
+    "http://www.antonianum.ofm.org/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222f3efb5f776967cbb4b15"
+  },
+  "country": "Italy",
+  "name": "University of Modena",
+  "domains": [
+    "casa.unimo.it"
+  ],
+  "alpha_two_code": "IT",
+  "state-province": null,
+  "web_pages": [
+    "http://www.casa.unimo.it/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222f3efb5f776967cbb4b16"
+  },
+  "country": "Italy",
+  "name": "Abdus Salam international centre for theoretical physics",
+  "domains": [
+    "ictp.trieste.it"
+  ],
+  "alpha_two_code": "IT",
+  "state-province": null,
+  "web_pages": [
+    "http://www.ictp.trieste.it/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222f3efb5f776967cbb4b17"
+  },
+  "country": "Italy",
+  "name": "Institute for Advanced Studies Lucca",
+  "domains": [
+    "imtlucca.it"
+  ],
+  "alpha_two_code": "IT",
+  "state-province": null,
+  "web_pages": [
+    "http://www.imtlucca.it/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222f3efb5f776967cbb4b18"
+  },
+  "country": "Spain",
+  "name": "Barcelona Graduate School of Economics",
+  "domains": [
+    "barcelonagse.eu"
+  ],
+  "alpha_two_code": "ES",
+  "state-province": null,
+  "web_pages": [
+    "http://www.barcelonagse.eu/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222f3efb5f776967cbb4b19"
+  },
+  "country": "Spain",
+  "name": "Bircham International University",
+  "domains": [
+    "bircham.edu"
+  ],
+  "alpha_two_code": "ES",
+  "state-province": null,
+  "web_pages": [
+    "http://www.bircham.edu/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222f3efb5f776967cbb4b1a"
+  },
+  "country": "Spain",
+  "name": "Universidad de San Pablo CEU",
+  "domains": [
+    "ceu.es"
+  ],
+  "alpha_two_code": "ES",
+  "state-province": null,
+  "web_pages": [
+    "http://www.ceu.es/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222f3efb5f776967cbb4b1b"
+  },
+  "country": "Spain",
+  "name": "Universidad de Deusto",
+  "domains": [
+    "deusto.es"
+  ],
+  "alpha_two_code": "ES",
+  "state-province": null,
+  "web_pages": [
+    "http://www.deusto.es/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222f3efb5f776967cbb4b1c"
+  },
+  "country": "Spain",
+  "name": "Universidad del País Vasco",
+  "domains": [
+    "ehu.es",
+    "ehu.eus"
+  ],
+  "alpha_two_code": "ES",
+  "state-province": null,
+  "web_pages": [
+    "http://www.ehu.es/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222f3efb5f776967cbb4b1d"
+  },
+  "country": "France",
+  "name": "42 FR",
+  "domains": [
+    "student.42.fr"
+  ],
+  "alpha_two_code": "FR",
+  "state-province": null,
+  "web_pages": [
+    "http://www.42.fr/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222f3efb5f776967cbb4b1e"
+  },
+  "country": "France",
+  "name": "Ecole de l'Air",
+  "domains": [
+    "aea.asso.fr"
+  ],
+  "alpha_two_code": "FR",
+  "state-province": null,
+  "web_pages": [
+    "http://www.aea.asso.fr/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222f3efb5f776967cbb4b1f"
+  },
+  "country": "France",
+  "name": "AgroParisTech",
+  "domains": [
+    "agroparistech.fr"
+  ],
+  "alpha_two_code": "FR",
+  "state-province": null,
+  "web_pages": [
+    "http://www.agroparistech.fr/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222f3efb5f776967cbb4b20"
+  },
+  "country": "France",
+  "name": "Ecole Nationale Supérieure d'Agronomie de Rennes",
+  "domains": [
+    "agro.roazhon.inra.fr"
+  ],
+  "alpha_two_code": "FR",
+  "state-province": null,
+  "web_pages": [
+    "http://agro.roazhon.inra.fr/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222f3efb5f776967cbb4b21"
+  },
+  "country": "France",
+  "name": "Institut National Supérieur de Formation Agro-Alimentaire",
+  "domains": [
+    "agro.roazhon.inra.fr"
+  ],
+  "alpha_two_code": "FR",
+  "state-province": null,
+  "web_pages": [
+    "http://agro.roazhon.inra.fr/etab/insfa/accueil.htm"
+  ]
+},{
+  "_id": {
+    "$oid": "6222f3efb5f776967cbb4b22"
+  },
+  "country": "Mexico",
+  "name": "Universidad Anáhuac",
+  "domains": [
+    "anahuac.mx"
+  ],
+  "alpha_two_code": "MX",
+  "state-province": null,
+  "web_pages": [
+    "http://www.anahuac.mx/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222f3efb5f776967cbb4b23"
+  },
+  "country": "Mexico",
+  "name": "Universidad de La Salle, Bajío",
+  "domains": [
+    "bajio.delasalle.edu.mx"
+  ],
+  "alpha_two_code": "MX",
+  "state-province": null,
+  "web_pages": [
+    "http://bajio.delasalle.edu.mx/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222f3efb5f776967cbb4b24"
+  },
+  "country": "Mexico",
+  "name": "Benemerita Universidad Autónoma de Puebla",
+  "domains": [
+    "buap.mx"
+  ],
+  "alpha_two_code": "MX",
+  "state-province": null,
+  "web_pages": [
+    "http://www.buap.mx/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222f3efb5f776967cbb4b25"
+  },
+  "country": "Mexico",
+  "name": "Centro de Enseñanza Técnica Industrial",
+  "domains": [
+    "ceti.mx"
+  ],
+  "alpha_two_code": "MX",
+  "state-province": null,
+  "web_pages": [
+    "http://www.ceti.mx/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222f3efb5f776967cbb4b26"
+  },
+  "country": "Mexico",
+  "name": "CETYS Universidad",
+  "domains": [
+    "cetys.mx"
+  ],
+  "alpha_two_code": "MX",
+  "state-province": null,
+  "web_pages": [
+    "http://www.cetys.mx/"
+  ]
+}]
