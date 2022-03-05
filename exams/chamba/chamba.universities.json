@@ -1,0 +1,354 @@
+[{
+  "_id": {
+    "$oid": "6222d87724b143807dea776f"
+  },
+  "country": "Argentina",
+  "name": "Universidad Atlantida Argentina",
+  "domains": [
+    "atlantida.edu.ar"
+  ],
+  "alpha_two_code": "AR",
+  "state-province": "Buenos Aires",
+  "web_pages": [
+    "http://www.atlantida.edu.ar/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222d87724b143807dea7770"
+  },
+  "country": "Argentina",
+  "name": "Universidad Austral Buenos Aires",
+  "domains": [
+    "austral.edu.ar"
+  ],
+  "alpha_two_code": "AR",
+  "state-province": "Buenos Aires",
+  "web_pages": [
+    "http://www.austral.edu.ar/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222d87724b143807dea7771"
+  },
+  "country": "Argentina",
+  "name": "Universidad CAECE, Buenos Aires",
+  "domains": [
+    "caece.edu.ar"
+  ],
+  "alpha_two_code": "AR",
+  "state-province": "Ciudad Autónoma de Buenos Aires",
+  "web_pages": [
+    "http://www.caece.edu.ar/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222d87724b143807dea7772"
+  },
+  "country": "Argentina",
+  "name": "Instituto Universitario CEMA",
+  "domains": [
+    "cema.edu.ar"
+  ],
+  "alpha_two_code": "AR",
+  "state-province": "Ciudad Autónoma de Buenos Aires",
+  "web_pages": [
+    "http://www.cema.edu.ar/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222d87724b143807dea7773"
+  },
+  "country": "Argentina",
+  "name": "Instituto de Enseñanza Superior del Ejército",
+  "domains": [
+    "iese.edu.ar"
+  ],
+  "alpha_two_code": "AR",
+  "state-province": "Ciudad Autónoma de Buenos Aires",
+  "web_pages": [
+    "http://www.iese.edu.ar/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222d87724b143807dea7774"
+  },
+  "country": "Portugal",
+  "name": "Instituto Superior de Informática e Gestão",
+  "domains": [
+    "cocite.pt"
+  ],
+  "alpha_two_code": "PT",
+  "state-province": null,
+  "web_pages": [
+    "http://www.cocite.pt/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222d87724b143807dea7775"
+  },
+  "country": "Portugal",
+  "name": "Escola Nautica Infante D. Henrique",
+  "domains": [
+    "enautica.pt"
+  ],
+  "alpha_two_code": "PT",
+  "state-province": null,
+  "web_pages": [
+    "http://www.enautica.pt/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222d87724b143807dea7776"
+  },
+  "country": "Portugal",
+  "name": "Escola Superior de Artes e Design",
+  "domains": [
+    "esad.pt"
+  ],
+  "alpha_two_code": "PT",
+  "state-province": null,
+  "web_pages": [
+    "http://www.esad.pt/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222d87724b143807dea7777"
+  },
+  "country": "Portugal",
+  "name": "Escola Superior de Hotelaria e Turismo do Estoril",
+  "domains": [
+    "eshte.pt"
+  ],
+  "alpha_two_code": "PT",
+  "state-province": null,
+  "web_pages": [
+    "http://www.eshte.pt/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222d87724b143807dea7778"
+  },
+  "country": "Portugal",
+  "name": "European University Portugal",
+  "domains": [
+    "europeanuniversity.pt"
+  ],
+  "alpha_two_code": "PT",
+  "state-province": null,
+  "web_pages": [
+    "http://www.europeanuniversity.pt/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222d87724b143807dea7779"
+  },
+  "country": "Canada",
+  "name": "Cégep de Saint-Jérôme",
+  "domains": [
+    "cstj.qc.ca"
+  ],
+  "alpha_two_code": "CA",
+  "state-province": null,
+  "web_pages": [
+    "https://www.cstj.qc.ca",
+    "https://ccmt.cstj.qc.ca",
+    "https://ccml.cstj.qc.ca"
+  ]
+},{
+  "_id": {
+    "$oid": "6222d87724b143807dea777a"
+  },
+  "country": "Canada",
+  "name": "Lambton College",
+  "domains": [
+    "lambtoncollege.ca",
+    "mylambton.ca"
+  ],
+  "alpha_two_code": "CA",
+  "state-province": "Sarnia",
+  "web_pages": [
+    "https://www.lambtoncollege.ca"
+  ]
+},{
+  "_id": {
+    "$oid": "6222d87724b143807dea777b"
+  },
+  "country": "Canada",
+  "name": "Acadia University",
+  "domains": [
+    "acadiau.ca"
+  ],
+  "alpha_two_code": "CA",
+  "state-province": null,
+  "web_pages": [
+    "http://www.acadiau.ca/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222d87724b143807dea777c"
+  },
+  "country": "Canada",
+  "name": "Algonquin College",
+  "domains": [
+    "algonquincollege.com"
+  ],
+  "alpha_two_code": "CA",
+  "state-province": null,
+  "web_pages": [
+    "http://www.algonquincollege.com/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222d87724b143807dea777d"
+  },
+  "country": "Canada",
+  "name": "Ashton College",
+  "domains": [
+    "ashtoncollege.com"
+  ],
+  "alpha_two_code": "CA",
+  "state-province": null,
+  "web_pages": [
+    "http://www.ashtoncollege.com/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222d87724b143807dea777e"
+  },
+  "country": "Honduras",
+  "name": "Universidad José Cecilio del Valle",
+  "domains": [
+    "ujcv.edu.hn"
+  ],
+  "alpha_two_code": "HN",
+  "state-province": null,
+  "web_pages": [
+    "http://www.ujcv.edu.hn/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222d87724b143807dea777f"
+  },
+  "country": "Honduras",
+  "name": "Universidad Nacional Autónoma de Honduras",
+  "domains": [
+    "unah.edu.hn"
+  ],
+  "alpha_two_code": "HN",
+  "state-province": null,
+  "web_pages": [
+    "http://www.unah.edu.hn/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222d87724b143807dea7780"
+  },
+  "country": "Honduras",
+  "name": "Universidad Católica de Honduras",
+  "domains": [
+    "unicah.edu"
+  ],
+  "alpha_two_code": "HN",
+  "state-province": null,
+  "web_pages": [
+    "http://www.unicah.edu/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222d87724b143807dea7781"
+  },
+  "country": "Honduras",
+  "name": "Universidad Metropolitana de Honduras",
+  "domains": [
+    "unimetro.edu.hn"
+  ],
+  "alpha_two_code": "HN",
+  "state-province": null,
+  "web_pages": [
+    "http://www.unimetro.edu.hn/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222d87724b143807dea7782"
+  },
+  "country": "Honduras",
+  "name": "Universidad Tecnológica Centroamericana",
+  "domains": [
+    "unitec.edu"
+  ],
+  "alpha_two_code": "HN",
+  "state-province": null,
+  "web_pages": [
+    "http://www.unitec.edu/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222d87724b143807dea7783"
+  },
+  "country": "Uruguay",
+  "name": "Insituto Universitario - Centro Latinoamericano de Economia Humana - IU Claeh",
+  "domains": [
+    "claeh.edu.uy"
+  ],
+  "alpha_two_code": "UY",
+  "state-province": null,
+  "web_pages": [
+    "http://www.claeh.edu.uy/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222d87724b143807dea7784"
+  },
+  "country": "Uruguay",
+  "name": "Universidad ORT Uruguay",
+  "domains": [
+    "ort.edu.uy"
+  ],
+  "alpha_two_code": "UY",
+  "state-province": null,
+  "web_pages": [
+    "http://www.ort.edu.uy/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222d87724b143807dea7785"
+  },
+  "country": "Uruguay",
+  "name": "Universidad Católica del Uruguay",
+  "domains": [
+    "ucu.edu.uy"
+  ],
+  "alpha_two_code": "UY",
+  "state-province": null,
+  "web_pages": [
+    "http://www.ucu.edu.uy/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222d87724b143807dea7786"
+  },
+  "country": "Uruguay",
+  "name": "Universidad de la Empresa (UDE)",
+  "domains": [
+    "ude.edu.uy"
+  ],
+  "alpha_two_code": "UY",
+  "state-province": null,
+  "web_pages": [
+    "http://www.ude.edu.uy/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222d87724b143807dea7787"
+  },
+  "country": "Uruguay",
+  "name": "Universidad de Montevideo",
+  "domains": [
+    "um.edu.uy"
+  ],
+  "alpha_two_code": "UY",
+  "state-province": null,
+  "web_pages": [
+    "http://www.um.edu.uy/"
+  ]
+}]
