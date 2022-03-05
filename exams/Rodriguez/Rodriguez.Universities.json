@@ -1,0 +1,351 @@
+[{
+  "_id": {
+    "$oid": "6222d90a99d3072df5b58c32"
+  },
+  "country": "Bahrain",
+  "name": "Arabian Gulf University",
+  "domains": [
+    "agu.edu.bh"
+  ],
+  "alpha_two_code": "BH",
+  "state-province": null,
+  "web_pages": [
+    "http://www.agu.edu.bh/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222da6b99d3072df5b58c33"
+  },
+  "country": "Bahrain",
+  "name": "Al Ahlia University",
+  "domains": [
+    "ahliauniversity.org"
+  ],
+  "alpha_two_code": "BH",
+  "state-province": null,
+  "web_pages": [
+    "http://www.ahliauniversity.org/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222daa499d3072df5b58c34"
+  },
+  "country": "Bahrain",
+  "name": "Ama International University",
+  "domains": [
+    "amaiu.edu.bh"
+  ],
+  "alpha_two_code": "BH",
+  "state-province": null,
+  "web_pages": [
+    "http://www.amaiu.edu.bh/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222daca99d3072df5b58c35"
+  },
+  "country": "Bahrain",
+  "name": "Arab Open University",
+  "domains": [
+    "aou.org.bh"
+  ],
+  "alpha_two_code": "BH",
+  "state-province": null,
+  "web_pages": [
+    "http://www.aou.org.bh/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222daea99d3072df5b58c36"
+  },
+  "country": "Bahrain",
+  "name": "Applied Science University",
+  "domains": [
+    "asu.edu.bh"
+  ],
+  "alpha_two_code": "BH",
+  "state-province": null,
+  "web_pages": [
+    "http://www.asu.edu.bh/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222dbf599d3072df5b58c3a"
+  },
+  "country": "Cameroon",
+  "name": "Bamenda University of Science & Technology",
+  "domains": [
+    "bamendauniversity.com"
+  ],
+  "alpha_two_code": "CM",
+  "state-province": null,
+  "web_pages": [
+    "http://www.bamendauniversity.com/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222dc1499d3072df5b58c3b"
+  },
+  "country": "Cameroon",
+  "name": "Fomic Polytechnic",
+  "domains": [
+    "fomicgroup.cm"
+  ],
+  "alpha_two_code": "CM",
+  "state-province": null,
+  "web_pages": [
+    "http://www.fomicgroup.cm/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222dc3f99d3072df5b58c3c"
+  },
+  "country": "Cameroon",
+  "name": "Université de Buéa",
+  "domains": [
+    "ubuea.cm"
+  ],
+  "alpha_two_code": "CM",
+  "state-province": null,
+  "web_pages": [
+    "http://www.ubuea.cm/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222dc5399d3072df5b58c3d"
+  },
+  "country": "Cameroon",
+  "name": "Université des Montagnes",
+  "domains": [
+    "udesmontagnes.org"
+  ],
+  "alpha_two_code": "CM",
+  "state-province": null,
+  "web_pages": [
+    "http://www.udesmontagnes.org/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222dc6c99d3072df5b58c3e"
+  },
+  "country": "Cameroon",
+  "name": "Université de Bamenda",
+  "domains": [
+    "unibda.net"
+  ],
+  "alpha_two_code": "CM",
+  "state-province": null,
+  "web_pages": [
+    "http://www.unibda.net/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222dcfc99d3072df5b58c3f"
+  },
+  "country": "Greece",
+  "name": "American College of Greece",
+  "domains": [
+    "acg.gr"
+  ],
+  "alpha_two_code": "GR",
+  "state-province": null,
+  "web_pages": [
+    "http://www.acg.gr/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222dd0c99d3072df5b58c40"
+  },
+  "country": "Greece",
+  "name": "American College of Thessaloniki",
+  "domains": [
+    "act.edu"
+  ],
+  "alpha_two_code": "GR",
+  "state-province": null,
+  "web_pages": [
+    "http://www.act.edu/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222dd1c99d3072df5b58c41"
+  },
+  "country": "Greece",
+  "name": "Aegean University",
+  "domains": [
+    "aegean.gr"
+  ],
+  "alpha_two_code": "GR",
+  "state-province": null,
+  "web_pages": [
+    "http://www.aegean.gr/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222dd2b99d3072df5b58c42"
+  },
+  "country": "Greece",
+  "name": "Athens Graduate School of Management (AGSM)",
+  "domains": [
+    "agsm.gr"
+  ],
+  "alpha_two_code": "GR",
+  "state-province": null,
+  "web_pages": [
+    "http://www.agsm.gr/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222dd3999d3072df5b58c43"
+  },
+  "country": "Greece",
+  "name": "Athens Laboratory of Business Administration (ALBA)",
+  "domains": [
+    "alba.edu.gr"
+  ],
+  "alpha_two_code": "GR",
+  "state-province": null,
+  "web_pages": [
+    "http://www.alba.edu.gr/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222ddd399d3072df5b58c44"
+  },
+  "country": "Lebanon",
+  "name": "Arab Open University",
+  "domains": [
+    "arabou-lb.edu.lb"
+  ],
+  "alpha_two_code": "LB",
+  "state-province": null,
+  "web_pages": [
+    "http://www.arabou-lb.edu.lb/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222ddf599d3072df5b58c45"
+  },
+  "country": "Lebanon",
+  "name": "American University of Beirut",
+  "domains": [
+    "aub.edu.lb"
+  ],
+  "alpha_two_code": "LB",
+  "state-province": null,
+  "web_pages": [
+    "http://www.aub.edu.lb/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222de0399d3072df5b58c46"
+  },
+  "country": "Lebanon",
+  "name": "Arts, Sciences and Technology University",
+  "domains": [
+    "aul.edu.lb"
+  ],
+  "alpha_two_code": "LB",
+  "state-province": null,
+  "web_pages": [
+    "http://www.aul.edu.lb/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222de1299d3072df5b58c47"
+  },
+  "country": "Lebanon",
+  "name": "American University of Science and Technology",
+  "domains": [
+    "aust.edu.lb"
+  ],
+  "alpha_two_code": "LB",
+  "state-province": null,
+  "web_pages": [
+    "http://www.aust.edu.lb/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222de2599d3072df5b58c48"
+  },
+  "country": "Lebanon",
+  "name": "American University College of Technology",
+  "domains": [
+    "aut.edu"
+  ],
+  "alpha_two_code": "LB",
+  "state-province": null,
+  "web_pages": [
+    "http://www.aut.edu/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222de9b99d3072df5b58c49"
+  },
+  "country": "Yemen",
+  "name": "University of Aden",
+  "domains": [
+    "adenuniversity.edu.ye"
+  ],
+  "alpha_two_code": "YE",
+  "state-province": null,
+  "web_pages": [
+    "http://www.adenuniversity.edu.ye/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222deaa99d3072df5b58c4a"
+  },
+  "country": "Yemen",
+  "name": "Alahgaff University",
+  "domains": [
+    "ahgaff.edu"
+  ],
+  "alpha_two_code": "YE",
+  "state-province": null,
+  "web_pages": [
+    "http://www.ahgaff.edu/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222deb699d3072df5b58c4b"
+  },
+  "country": "Yemen",
+  "name": "Al-Nasser University",
+  "domains": [
+    "al-edu.com"
+  ],
+  "alpha_two_code": "YE",
+  "state-province": null,
+  "web_pages": [
+    "http://www.al-edu.com/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222dec499d3072df5b58c4c"
+  },
+  "country": "Yemen",
+  "name": "Queen Arwa University",
+  "domains": [
+    "arwauniversity.org"
+  ],
+  "alpha_two_code": "YE",
+  "state-province": null,
+  "web_pages": [
+    "http://www.arwauniversity.org/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222ded099d3072df5b58c4d"
+  },
+  "country": "Yemen",
+  "name": "Al-Eman University",
+  "domains": [
+    "eman-univ.edu.ye"
+  ],
+  "alpha_two_code": "YE",
+  "state-province": null,
+  "web_pages": [
+    "http://www.eman-univ.edu.ye/"
+  ]
+}]
