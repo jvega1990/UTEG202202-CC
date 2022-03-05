@@ -1,0 +1,351 @@
+[{
+  "_id": {
+    "$oid": "6222da92578c9d61e798b8ae"
+  },
+  "country": "Colombia",
+  "name": "Universidad Autónoma de Manizales",
+  "domains": [
+    "autonoma.edu.co"
+  ],
+  "alpha_two_code": "CO",
+  "state-province": null,
+  "web_pages": [
+    "http://www.autonoma.edu.co/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222da92578c9d61e798b8af"
+  },
+  "country": "Colombia",
+  "name": "Universidad Bellas Artes",
+  "domains": [
+    "bellasartes.edu.co"
+  ],
+  "alpha_two_code": "CO",
+  "state-province": null,
+  "web_pages": [
+    "http://www.bellasartes.edu.co/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222da92578c9d61e798b8b0"
+  },
+  "country": "Colombia",
+  "name": "Conservatorio del Tolima",
+  "domains": [
+    "bundenet.com"
+  ],
+  "alpha_two_code": "CO",
+  "state-province": null,
+  "web_pages": [
+    "http://www.bundenet.com/umusical/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222da92578c9d61e798b8b1"
+  },
+  "country": "Colombia",
+  "name": "Colegio de Estudios Superiores de Administración (CESA)",
+  "domains": [
+    "cesa.edu.co"
+  ],
+  "alpha_two_code": "CO",
+  "state-province": null,
+  "web_pages": [
+    "http://www.cesa.edu.co/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222da92578c9d61e798b8b2"
+  },
+  "country": "Colombia",
+  "name": "Universidad CES",
+  "domains": [
+    "ces.edu.co"
+  ],
+  "alpha_two_code": "CO",
+  "state-province": null,
+  "web_pages": [
+    "http://www.ces.edu.co/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222da92578c9d61e798b8b3"
+  },
+  "country": "Peru",
+  "name": "Universidad Marcelino Champagnat",
+  "domains": [
+    "champagnat.edu.pe"
+  ],
+  "alpha_two_code": "PE",
+  "state-province": null,
+  "web_pages": [
+    "http://www.champagnat.edu.pe/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222da92578c9d61e798b8b4"
+  },
+  "country": "Peru",
+  "name": "Universidad Nacional Agraria La Molina",
+  "domains": [
+    "lamolina.edu.pe"
+  ],
+  "alpha_two_code": "PE",
+  "state-province": null,
+  "web_pages": [
+    "http://www.lamolina.edu.pe/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222da92578c9d61e798b8b5"
+  },
+  "country": "Peru",
+  "name": "Pontificia Universidad Católica del Perú",
+  "domains": [
+    "pucp.edu.pe"
+  ],
+  "alpha_two_code": "PE",
+  "state-province": null,
+  "web_pages": [
+    "http://www.pucp.edu.pe/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222da92578c9d61e798b8b6"
+  },
+  "country": "Peru",
+  "name": "Universidad San Ignacio de Loyola",
+  "domains": [
+    "sil.edu.pe"
+  ],
+  "alpha_two_code": "PE",
+  "state-province": null,
+  "web_pages": [
+    "http://www.sil.edu.pe/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222da92578c9d61e798b8b7"
+  },
+  "country": "Peru",
+  "name": "Universidad Andina Nestor Caceares Velasquez",
+  "domains": [
+    "uancv.edu.pe"
+  ],
+  "alpha_two_code": "PE",
+  "state-province": null,
+  "web_pages": [
+    "http://www.uancv.edu.pe/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222da92578c9d61e798b8b8"
+  },
+  "country": "Argentina",
+  "name": "Universidad Atlantida Argentina",
+  "domains": [
+    "atlantida.edu.ar"
+  ],
+  "alpha_two_code": "AR",
+  "state-province": "Buenos Aires",
+  "web_pages": [
+    "http://www.atlantida.edu.ar/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222da92578c9d61e798b8b9"
+  },
+  "country": "Argentina",
+  "name": "Universidad Austral Buenos Aires",
+  "domains": [
+    "austral.edu.ar"
+  ],
+  "alpha_two_code": "AR",
+  "state-province": "Buenos Aires",
+  "web_pages": [
+    "http://www.austral.edu.ar/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222da92578c9d61e798b8ba"
+  },
+  "country": "Argentina",
+  "name": "Universidad CAECE, Buenos Aires",
+  "domains": [
+    "caece.edu.ar"
+  ],
+  "alpha_two_code": "AR",
+  "state-province": "Ciudad Autónoma de Buenos Aires",
+  "web_pages": [
+    "http://www.caece.edu.ar/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222da92578c9d61e798b8bb"
+  },
+  "country": "Argentina",
+  "name": "Instituto Universitario CEMA",
+  "domains": [
+    "cema.edu.ar"
+  ],
+  "alpha_two_code": "AR",
+  "state-province": "Ciudad Autónoma de Buenos Aires",
+  "web_pages": [
+    "http://www.cema.edu.ar/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222da92578c9d61e798b8bc"
+  },
+  "country": "Argentina",
+  "name": "Instituto de Enseñanza Superior del Ejército",
+  "domains": [
+    "iese.edu.ar"
+  ],
+  "alpha_two_code": "AR",
+  "state-province": "Ciudad Autónoma de Buenos Aires",
+  "web_pages": [
+    "http://www.iese.edu.ar/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222da92578c9d61e798b8bd"
+  },
+  "country": "Paraguay",
+  "name": "Universidad Columbia del Paraguay",
+  "domains": [
+    "columbia.edu.py"
+  ],
+  "alpha_two_code": "PY",
+  "state-province": null,
+  "web_pages": [
+    "http://www.columbia.edu.py/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222da92578c9d61e798b8be"
+  },
+  "country": "Paraguay",
+  "name": "Universidad Autónoma de Asunción",
+  "domains": [
+    "uaa.edu.py"
+  ],
+  "alpha_two_code": "PY",
+  "state-province": null,
+  "web_pages": [
+    "http://www.uaa.edu.py/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222da92578c9d61e798b8bf"
+  },
+  "country": "Paraguay",
+  "name": "Universidad Americana",
+  "domains": [
+    "uamericana.edu.py"
+  ],
+  "alpha_two_code": "PY",
+  "state-province": null,
+  "web_pages": [
+    "http://www.uamericana.edu.py/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222da92578c9d61e798b8c0"
+  },
+  "country": "Paraguay",
+  "name": "Universidad Autónoma del Paraguay",
+  "domains": [
+    "uap.edu.py"
+  ],
+  "alpha_two_code": "PY",
+  "state-province": null,
+  "web_pages": [
+    "http://www.uap.edu.py/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222da92578c9d61e798b8c1"
+  },
+  "country": "Paraguay",
+  "name": "Universidad Católica Nuestra Senora de la Asunción",
+  "domains": [
+    "uc.edu.py"
+  ],
+  "alpha_two_code": "PY",
+  "state-province": null,
+  "web_pages": [
+    "http://www.uc.edu.py/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222da92578c9d61e798b8c2"
+  },
+  "country": "Uruguay",
+  "name": "Insituto Universitario - Centro Latinoamericano de Economia Humana - IU Claeh",
+  "domains": [
+    "claeh.edu.uy"
+  ],
+  "alpha_two_code": "UY",
+  "state-province": null,
+  "web_pages": [
+    "http://www.claeh.edu.uy/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222da92578c9d61e798b8c3"
+  },
+  "country": "Uruguay",
+  "name": "Universidad ORT Uruguay",
+  "domains": [
+    "ort.edu.uy"
+  ],
+  "alpha_two_code": "UY",
+  "state-province": null,
+  "web_pages": [
+    "http://www.ort.edu.uy/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222da92578c9d61e798b8c4"
+  },
+  "country": "Uruguay",
+  "name": "Universidad Católica del Uruguay",
+  "domains": [
+    "ucu.edu.uy"
+  ],
+  "alpha_two_code": "UY",
+  "state-province": null,
+  "web_pages": [
+    "http://www.ucu.edu.uy/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222da92578c9d61e798b8c5"
+  },
+  "country": "Uruguay",
+  "name": "Universidad de la Empresa (UDE)",
+  "domains": [
+    "ude.edu.uy"
+  ],
+  "alpha_two_code": "UY",
+  "state-province": null,
+  "web_pages": [
+    "http://www.ude.edu.uy/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222da92578c9d61e798b8c6"
+  },
+  "country": "Uruguay",
+  "name": "Universidad de Montevideo",
+  "domains": [
+    "um.edu.uy"
+  ],
+  "alpha_two_code": "UY",
+  "state-province": null,
+  "web_pages": [
+    "http://www.um.edu.uy/"
+  ]
+}]
