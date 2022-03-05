@@ -1,0 +1,351 @@
+[{
+  "_id": {
+    "$oid": "6223982d8b2a6ccd3c28630d"
+  },
+  "country": "Costa Rica",
+  "name": "Universidad Fundepos Alma Mater",
+  "domains": [
+    "fundepos.ac.cr"
+  ],
+  "alpha_two_code": "CR",
+  "state-province": null,
+  "web_pages": [
+    "http://www.fundepos.ac.cr/"
+  ]
+},{
+  "_id": {
+    "$oid": "6223982d8b2a6ccd3c28630e"
+  },
+  "country": "Costa Rica",
+  "name": "Universidad Isaac Newton",
+  "domains": [
+    "isaacnewtoncr.com"
+  ],
+  "alpha_two_code": "CR",
+  "state-province": null,
+  "web_pages": [
+    "http://www.isaacnewtoncr.com/"
+  ]
+},{
+  "_id": {
+    "$oid": "6223982d8b2a6ccd3c28630f"
+  },
+  "country": "Costa Rica ",
+  "name": "Instituto Tecnológico de Costa Rica",
+  "domains": [
+    "itcr.ac.cr"
+  ],
+  "alpha_two_code": "CR",
+  "state-province": null,
+  "web_pages": [
+    "http://www.itcr.ac.cr/"
+  ]
+},{
+  "_id": {
+    "$oid": "6223982d8b2a6ccd3c286310"
+  },
+  "country": "Costa Rica",
+  "name": "Universidad San Juan de la Cruz",
+  "domains": [
+    "sjdlc.com"
+  ],
+  "alpha_two_code": "CR",
+  "state-province": null,
+  "web_pages": [
+    "http://www.sjdlc.com/"
+  ]
+},{
+  "_id": {
+    "$oid": "6223982d8b2a6ccd3c286311"
+  },
+  "country": "Costa Rica ",
+  "name": "Universidad Autónoma de Centro América",
+  "domains": [
+    "uaca.ac.cr"
+  ],
+  "alpha_two_code": "CR",
+  "state-province": null,
+  "web_pages": [
+    "http://www.uaca.ac.cr/"
+  ]
+},{
+  "_id": {
+    "$oid": "6223982d8b2a6ccd3c286312"
+  },
+  "country": "Colombia",
+  "name": "Universidad Autónoma de Manizales",
+  "domains": [
+    "autonoma.edu.co"
+  ],
+  "alpha_two_code": "CO",
+  "state-province": null,
+  "web_pages": [
+    "http://www.autonoma.edu.co/"
+  ]
+},{
+  "_id": {
+    "$oid": "6223982d8b2a6ccd3c286313"
+  },
+  "country": "Colombia",
+  "name": "Universidad Bellas Artes",
+  "domains": [
+    "bellasartes.edu.co"
+  ],
+  "alpha_two_code": "CO",
+  "state-province": null,
+  "web_pages": [
+    "http://www.bellasartes.edu.co/"
+  ]
+},{
+  "_id": {
+    "$oid": "6223982d8b2a6ccd3c286314"
+  },
+  "country": "Colombia",
+  "name": "Conservatorio del Tolima",
+  "domains": [
+    "bundenet.com"
+  ],
+  "alpha_two_code": "CO",
+  "state-province": null,
+  "web_pages": [
+    "http://www.bundenet.com/umusical/"
+  ]
+},{
+  "_id": {
+    "$oid": "6223982d8b2a6ccd3c286315"
+  },
+  "country": "Colombia",
+  "name": "Colegio de Estudios Superiores de Administración (CESA)",
+  "domains": [
+    "cesa.edu.co"
+  ],
+  "alpha_two_code": "CO",
+  "state-province": null,
+  "web_pages": [
+    "http://www.cesa.edu.co/"
+  ]
+},{
+  "_id": {
+    "$oid": "6223982d8b2a6ccd3c286316"
+  },
+  "country": "Colombia",
+  "name": "Universidad CES",
+  "domains": [
+    "ces.edu.co"
+  ],
+  "alpha_two_code": "CO",
+  "state-province": null,
+  "web_pages": [
+    "http://www.ces.edu.co/"
+  ]
+},{
+  "_id": {
+    "$oid": "6223982d8b2a6ccd3c286317"
+  },
+  "country": "France",
+  "name": "42 FR",
+  "domains": [
+    "student.42.fr"
+  ],
+  "alpha_two_code": "FR",
+  "state-province": null,
+  "web_pages": [
+    "http://www.42.fr/"
+  ]
+},{
+  "_id": {
+    "$oid": "6223982d8b2a6ccd3c286318"
+  },
+  "country": "France",
+  "name": "Ecole de l'Air",
+  "domains": [
+    "aea.asso.fr"
+  ],
+  "alpha_two_code": "FR",
+  "state-province": null,
+  "web_pages": [
+    "http://www.aea.asso.fr/"
+  ]
+},{
+  "_id": {
+    "$oid": "6223982d8b2a6ccd3c286319"
+  },
+  "country": "France",
+  "name": "AgroParisTech",
+  "domains": [
+    "agroparistech.fr"
+  ],
+  "alpha_two_code": "FR",
+  "state-province": null,
+  "web_pages": [
+    "http://www.agroparistech.fr/"
+  ]
+},{
+  "_id": {
+    "$oid": "6223982d8b2a6ccd3c28631a"
+  },
+  "country": "France",
+  "name": "Ecole Nationale Supérieure d'Agronomie de Rennes",
+  "domains": [
+    "agro.roazhon.inra.fr"
+  ],
+  "alpha_two_code": "FR",
+  "state-province": null,
+  "web_pages": [
+    "http://agro.roazhon.inra.fr/"
+  ]
+},{
+  "_id": {
+    "$oid": "6223982d8b2a6ccd3c28631b"
+  },
+  "country": "France",
+  "name": "Institut National Supérieur de Formation Agro-Alimentaire",
+  "domains": [
+    "agro.roazhon.inra.fr"
+  ],
+  "alpha_two_code": "FR",
+  "state-province": null,
+  "web_pages": [
+    "http://agro.roazhon.inra.fr/etab/insfa/accueil.htm"
+  ]
+},{
+  "_id": {
+    "$oid": "6223982d8b2a6ccd3c28631c"
+  },
+  "country": "Israel",
+  "name": "Afeka Tel Aviv Academic College of Engineering",
+  "domains": [
+    "afeka.ac.il"
+  ],
+  "alpha_two_code": "IL",
+  "state-province": null,
+  "web_pages": [
+    "http://www.afeka.ac.il/"
+  ]
+},{
+  "_id": {
+    "$oid": "6223982d8b2a6ccd3c28631d"
+  },
+  "country": "Israel",
+  "name": "JCT Lev Academic Center",
+  "domains": [
+    "jct.ac.il"
+  ],
+  "alpha_two_code": "IL",
+  "state-province": null,
+  "web_pages": [
+    "http://www.jct.ac.il/"
+  ]
+},{
+  "_id": {
+    "$oid": "6223982d8b2a6ccd3c28631e"
+  },
+  "country": "Israel",
+  "name": "Ariel University Center of Samaria",
+  "domains": [
+    "ariel.ac.il"
+  ],
+  "alpha_two_code": "IL",
+  "state-province": null,
+  "web_pages": [
+    "http://www.ariel.ac.il/"
+  ]
+},{
+  "_id": {
+    "$oid": "6223982d8b2a6ccd3c28631f"
+  },
+  "country": "Israel",
+  "name": "Ashkelon Academic College",
+  "domains": [
+    "ash-college.ac.il"
+  ],
+  "alpha_two_code": "IL",
+  "state-province": null,
+  "web_pages": [
+    "http://www.ash-college.ac.il/"
+  ]
+},{
+  "_id": {
+    "$oid": "6223982d8b2a6ccd3c286320"
+  },
+  "country": "Israel",
+  "name": "Bezalel Academy of Art and Design",
+  "domains": [
+    "bezalel.ac.il"
+  ],
+  "alpha_two_code": "IL",
+  "state-province": null,
+  "web_pages": [
+    "http://www.bezalel.ac.il/"
+  ]
+},{
+  "_id": {
+    "$oid": "6223982d8b2a6ccd3c286321"
+  },
+  "country": "Croatia",
+  "name": "University of Dubrovnik",
+  "domains": [
+    "unidu.hr"
+  ],
+  "alpha_two_code": "HR",
+  "state-province": null,
+  "web_pages": [
+    "http://www.unidu.hr/"
+  ]
+},{
+  "_id": {
+    "$oid": "6223982d8b2a6ccd3c286322"
+  },
+  "country": "Croatia",
+  "name": "University of Osijek",
+  "domains": [
+    "unios.hr"
+  ],
+  "alpha_two_code": "HR",
+  "state-province": null,
+  "web_pages": [
+    "http://www.unios.hr/"
+  ]
+},{
+  "_id": {
+    "$oid": "6223982d8b2a6ccd3c286323"
+  },
+  "country": "Croatia",
+  "name": "University of Pula",
+  "domains": [
+    "unipu.hr"
+  ],
+  "alpha_two_code": "HR",
+  "state-province": null,
+  "web_pages": [
+    "http://www.unipu.hr/"
+  ]
+},{
+  "_id": {
+    "$oid": "6223982d8b2a6ccd3c286324"
+  },
+  "country": "Croatia",
+  "name": "University of Rijeka",
+  "domains": [
+    "uniri.hr"
+  ],
+  "alpha_two_code": "HR",
+  "state-province": null,
+  "web_pages": [
+    "http://www.uniri.hr/"
+  ]
+},{
+  "_id": {
+    "$oid": "6223982d8b2a6ccd3c286325"
+  },
+  "country": "Croatia",
+  "name": "University of Split",
+  "domains": [
+    "unist.hr"
+  ],
+  "alpha_two_code": "HR",
+  "state-province": null,
+  "web_pages": [
+    "http://www.unist.hr/"
+  ]
+}]
