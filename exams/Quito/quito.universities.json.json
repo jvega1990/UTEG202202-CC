@@ -1,0 +1,357 @@
+[{
+  "_id": {
+    "$oid": "6222f19c1e90cd8bf5e35ec5"
+  }
+},{
+  "_id": {
+    "$oid": "6222f3bf1e90cd8bf5e35ec9"
+  },
+  "country": "Nicaragua",
+  "name": "Universidad Americana",
+  "domains": [
+    "uam.edu.ni"
+  ],
+  "alpha_two_code": "NI",
+  "state-province": null,
+  "web_pages": [
+    "http://www.uam.edu.ni/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222f3bf1e90cd8bf5e35eca"
+  },
+  "country": "Nicaragua",
+  "name": "Universidad Centroamericana",
+  "domains": [
+    "uca.edu.ni"
+  ],
+  "alpha_two_code": "NI",
+  "state-province": null,
+  "web_pages": [
+    "http://www.uca.edu.ni/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222f3bf1e90cd8bf5e35ecb"
+  },
+  "country": "Nicaragua",
+  "name": "Universidad Ciencias Comerciales",
+  "domains": [
+    "ucc.edu.ni"
+  ],
+  "alpha_two_code": "NI",
+  "state-province": null,
+  "web_pages": [
+    "http://www.ucc.edu.ni/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222f3bf1e90cd8bf5e35ecc"
+  },
+  "country": "Nicaragua",
+  "name": "Universidad Centroamericana de Ciencias Empresariales (UCEM)",
+  "domains": [
+    "ucem.edu.ni"
+  ],
+  "alpha_two_code": "NI",
+  "state-province": null,
+  "web_pages": [
+    "http://www.ucem.edu.ni/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222f3bf1e90cd8bf5e35ecd"
+  },
+  "country": "Nicaragua",
+  "name": "Universidad Nicaragüense de Ciencia y Tecnológica",
+  "domains": [
+    "ucyt.edu.ni"
+  ],
+  "alpha_two_code": "NI",
+  "state-province": null,
+  "web_pages": [
+    "http://www.ucyt.edu.ni/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222f3bf1e90cd8bf5e35ece"
+  },
+  "country": "Nicaragua",
+  "name": "Universidad de Managua (U de M)",
+  "domains": [
+    "udem.edu.ni"
+  ],
+  "alpha_two_code": "NI",
+  "state-province": null,
+  "web_pages": [
+    "http://www.udem.edu.ni/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222f4f51e90cd8bf5e35ed0"
+  },
+  "country": "Colombia",
+  "name": "Universidad Bellas Artes",
+  "domains": [
+    "bellasartes.edu.co"
+  ],
+  "alpha_two_code": "CO",
+  "state-province": null,
+  "web_pages": [
+    "http://www.bellasartes.edu.co/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222f4f51e90cd8bf5e35ed1"
+  },
+  "country": "Colombia",
+  "name": "Conservatorio del Tolima",
+  "domains": [
+    "bundenet.com"
+  ],
+  "alpha_two_code": "CO",
+  "state-province": null,
+  "web_pages": [
+    "http://www.bundenet.com/umusical/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222f4f51e90cd8bf5e35ed2"
+  },
+  "country": "Colombia",
+  "name": "Colegio de Estudios Superiores de Administración (CESA)",
+  "domains": [
+    "cesa.edu.co"
+  ],
+  "alpha_two_code": "CO",
+  "state-province": null,
+  "web_pages": [
+    "http://www.cesa.edu.co/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222f4f51e90cd8bf5e35ed3"
+  },
+  "country": "Colombia",
+  "name": "Universidad CES",
+  "domains": [
+    "ces.edu.co"
+  ],
+  "alpha_two_code": "CO",
+  "state-province": null,
+  "web_pages": [
+    "http://www.ces.edu.co/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222f4f51e90cd8bf5e35ed4"
+  },
+  "country": "Colombia",
+  "name": "Universidad Autónoma de Occidente",
+  "domains": [
+    "cuao.edu.co"
+  ],
+  "alpha_two_code": "CO",
+  "state-province": null,
+  "web_pages": [
+    "http://www.cuao.edu.co/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222f59c1e90cd8bf5e35ed6"
+  },
+  "country": "Brazil",
+  "name": "Centro Regional Universitário de Espiríto Santo do Pinhal",
+  "domains": [
+    "creupi.br"
+  ],
+  "alpha_two_code": "BR",
+  "state-province": null,
+  "web_pages": [
+    "http://www.creupi.br/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222f59c1e90cd8bf5e35ed7"
+  },
+  "country": "Brazil",
+  "name": "EMESCAM - Escola Superior de Ciências da Santa Casa de Misericórdia de Vitória",
+  "domains": [
+    "emescam.br"
+  ],
+  "alpha_two_code": "BR",
+  "state-province": null,
+  "web_pages": [
+    "http://www.emescam.br/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222f59c1e90cd8bf5e35ed8"
+  },
+  "country": "Brazil",
+  "name": "Universidade Federal de São Paulo",
+  "domains": [
+    "epm.br"
+  ],
+  "alpha_two_code": "BR",
+  "state-province": null,
+  "web_pages": [
+    "http://www.epm.br/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222f59c1e90cd8bf5e35ed9"
+  },
+  "country": "Brazil",
+  "name": "Universidade Estácio de Sá",
+  "domains": [
+    "estacio.br"
+  ],
+  "alpha_two_code": "BR",
+  "state-province": null,
+  "web_pages": [
+    "http://www.estacio.br/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222f59c1e90cd8bf5e35eda"
+  },
+  "country": "Brazil",
+  "name": "FAAP - Fundação Armando Alvares Penteado",
+  "domains": [
+    "faap.br"
+  ],
+  "alpha_two_code": "BR",
+  "state-province": null,
+  "web_pages": [
+    "http://www.faap.br/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222f5fe1e90cd8bf5e35edc"
+  },
+  "country": "Honduras",
+  "name": "Universidad Nacional Autónoma de Honduras",
+  "domains": [
+    "unah.edu.hn"
+  ],
+  "alpha_two_code": "HN",
+  "state-province": null,
+  "web_pages": [
+    "http://www.unah.edu.hn/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222f5fe1e90cd8bf5e35edd"
+  },
+  "country": "Honduras",
+  "name": "Universidad Católica de Honduras",
+  "domains": [
+    "unicah.edu"
+  ],
+  "alpha_two_code": "HN",
+  "state-province": null,
+  "web_pages": [
+    "http://www.unicah.edu/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222f5fe1e90cd8bf5e35ede"
+  },
+  "country": "Honduras",
+  "name": "Universidad Metropolitana de Honduras",
+  "domains": [
+    "unimetro.edu.hn"
+  ],
+  "alpha_two_code": "HN",
+  "state-province": null,
+  "web_pages": [
+    "http://www.unimetro.edu.hn/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222f5fe1e90cd8bf5e35edf"
+  },
+  "country": "Honduras",
+  "name": "Universidad Tecnológica Centroamericana",
+  "domains": [
+    "unitec.edu"
+  ],
+  "alpha_two_code": "HN",
+  "state-province": null,
+  "web_pages": [
+    "http://www.unitec.edu/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222f5fe1e90cd8bf5e35ee0"
+  },
+  "country": "Honduras",
+  "name": "Universidad Pedagógica Nacional \"Francisco Morazán\"",
+  "domains": [
+    "upnfm.edu.hn"
+  ],
+  "alpha_two_code": "HN",
+  "state-province": null,
+  "web_pages": [
+    "http://www.upnfm.edu.hn/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222f5fe1e90cd8bf5e35ee1"
+  },
+  "country": "Honduras",
+  "name": "Universidad de San Pedro Sula",
+  "domains": [
+    "usps.edu.hn",
+    "usap.edu"
+  ],
+  "alpha_two_code": "HN",
+  "state-province": null,
+  "web_pages": [
+    "http://www.usps.edu.hn/",
+    "http://www.usap.edu"
+  ]
+},{
+  "_id": {
+    "$oid": "6222f6611e90cd8bf5e35ee3"
+  },
+  "country": "Peru",
+  "name": "Universidad Nacional Agraria La Molina",
+  "domains": [
+    "lamolina.edu.pe"
+  ],
+  "alpha_two_code": "PE",
+  "state-province": null,
+  "web_pages": [
+    "http://www.lamolina.edu.pe/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222f6611e90cd8bf5e35ee4"
+  },
+  "country": "Peru",
+  "name": "Pontificia Universidad Católica del Perú",
+  "domains": [
+    "pucp.edu.pe"
+  ],
+  "alpha_two_code": "PE",
+  "state-province": null,
+  "web_pages": [
+    "http://www.pucp.edu.pe/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222f6611e90cd8bf5e35ee5"
+  },
+  "country": "Peru",
+  "name": "Universidad San Ignacio de Loyola",
+  "domains": [
+    "sil.edu.pe"
+  ],
+  "alpha_two_code": "PE",
+  "state-province": null,
+  "web_pages": [
+    "http://www.sil.edu.pe/"
+  ]
+}]
