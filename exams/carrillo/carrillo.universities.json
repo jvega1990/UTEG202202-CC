@@ -1,0 +1,352 @@
+[{
+  "_id": {
+    "$oid": "6222c39d14609a1c21b21c65"
+  },
+  "country": "Spain",
+  "name": "Barcelona Graduate School of Economics",
+  "domains": [
+    "barcelonagse.eu"
+  ],
+  "alpha_two_code": "ES",
+  "state-province": null,
+  "web_pages": [
+    "http://www.barcelonagse.eu/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222c39d14609a1c21b21c66"
+  },
+  "country": "Spain",
+  "name": "Bircham International University",
+  "domains": [
+    "bircham.edu"
+  ],
+  "alpha_two_code": "ES",
+  "state-province": null,
+  "web_pages": [
+    "http://www.bircham.edu/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222c39d14609a1c21b21c67"
+  },
+  "country": "Spain",
+  "name": "Universidad de San Pablo CEU",
+  "domains": [
+    "ceu.es"
+  ],
+  "alpha_two_code": "ES",
+  "state-province": null,
+  "web_pages": [
+    "http://www.ceu.es/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222c39d14609a1c21b21c68"
+  },
+  "country": "Spain",
+  "name": "Universidad de Deusto",
+  "domains": [
+    "deusto.es"
+  ],
+  "alpha_two_code": "ES",
+  "state-province": null,
+  "web_pages": [
+    "http://www.deusto.es/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222c39d14609a1c21b21c69"
+  },
+  "country": "Spain",
+  "name": "Universidad del País Vasco",
+  "domains": [
+    "ehu.es",
+    "ehu.eus"
+  ],
+  "alpha_two_code": "ES",
+  "state-province": null,
+  "web_pages": [
+    "http://www.ehu.es/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222c44a14609a1c21b21c6b"
+  },
+  "country": "Australia",
+  "name": "Australian Correspondence Schools",
+  "domains": [
+    "acs.edu.au"
+  ],
+  "alpha_two_code": "AU",
+  "state-province": null,
+  "web_pages": [
+    "http://www.acs.edu.au/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222c44a14609a1c21b21c6c"
+  },
+  "country": "Australia",
+  "name": "Australian Catholic University",
+  "domains": [
+    "acu.edu.au"
+  ],
+  "alpha_two_code": "AU",
+  "state-province": null,
+  "web_pages": [
+    "http://www.acu.edu.au/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222c44a14609a1c21b21c6d"
+  },
+  "country": "Australia",
+  "name": "University of Adelaide",
+  "domains": [
+    "adelaide.edu.au"
+  ],
+  "alpha_two_code": "AU",
+  "state-province": null,
+  "web_pages": [
+    "http://www.adelaide.edu.au/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222c44a14609a1c21b21c6e"
+  },
+  "country": "Australia",
+  "name": "Australian Defence Force Academy",
+  "domains": [
+    "adfa.oz.au"
+  ],
+  "alpha_two_code": "AU",
+  "state-province": null,
+  "web_pages": [
+    "http://www.adfa.oz.au/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222c44a14609a1c21b21c6f"
+  },
+  "country": "Australia",
+  "name": "Australian Lutheran College",
+  "domains": [
+    "alc.edu.au"
+  ],
+  "alpha_two_code": "AU",
+  "state-province": null,
+  "web_pages": [
+    "http://www.alc.edu.au/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222c4dd14609a1c21b21c71"
+  },
+  "country": "Indonesia",
+  "name": "Akademi Farmasi Mitra Sehat Mandiri Sidoarjo",
+  "domains": [
+    "akfarmitseda.ac.id"
+  ],
+  "alpha_two_code": "ID",
+  "state-province": null,
+  "web_pages": [
+    "http://www.akfarmitseda.ac.id/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222c4dd14609a1c21b21c72"
+  },
+  "country": "Indonesia",
+  "name": "Institut Sains & Teknologi Akprind",
+  "domains": [
+    "akprind.ac.id"
+  ],
+  "alpha_two_code": "ID",
+  "state-province": null,
+  "web_pages": [
+    "http://www.akprind.ac.id/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222c4dd14609a1c21b21c73"
+  },
+  "country": "Indonesia",
+  "name": "STMIK AMIKOM Yogyakarta",
+  "domains": [
+    "amikom.ac.id"
+  ],
+  "alpha_two_code": "ID",
+  "state-province": null,
+  "web_pages": [
+    "http://www.amikom.ac.id/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222c4dd14609a1c21b21c74"
+  },
+  "country": "Indonesia",
+  "name": "STIKES RS Anwar Medika",
+  "domains": [
+    "stikesrsanwarmedika.ac.id"
+  ],
+  "alpha_two_code": "ID",
+  "state-province": null,
+  "web_pages": [
+    "http://www.stikesrsanwarmedika.ac.id/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222c4dd14609a1c21b21c75"
+  },
+  "country": "Indonesia",
+  "name": "Universitas Katolik Indonesia Atma Jaya",
+  "domains": [
+    "atmajaya.ac.id"
+  ],
+  "alpha_two_code": "ID",
+  "state-province": null,
+  "web_pages": [
+    "http://www.atmajaya.ac.id/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222c54d14609a1c21b21c77"
+  },
+  "country": "Algeria",
+  "name": "Université Amar Telidji",
+  "domains": [
+    "lagh-univ.dz"
+  ],
+  "alpha_two_code": "DZ",
+  "state-province": null,
+  "web_pages": [
+    "http://www.lagh-univ.dz/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222c54d14609a1c21b21c78"
+  },
+  "country": "Algeria",
+  "name": "Université M'hamed Bouguerra de Boumerdes",
+  "domains": [
+    "umbb.dz"
+  ],
+  "alpha_two_code": "DZ",
+  "state-province": null,
+  "web_pages": [
+    "http://www.umbb.dz/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222c54d14609a1c21b21c79"
+  },
+  "country": "Algeria",
+  "name": "Université Mentouri Constantine",
+  "domains": [
+    "umc.edu.dz"
+  ],
+  "alpha_two_code": "DZ",
+  "state-province": null,
+  "web_pages": [
+    "http://www.umc.edu.dz/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222c54d14609a1c21b21c7a"
+  },
+  "country": "Algeria",
+  "name": "Université Mouloud Mammeri de Tizi Ouzou",
+  "domains": [
+    "ummto.dz"
+  ],
+  "alpha_two_code": "DZ",
+  "state-province": null,
+  "web_pages": [
+    "http://www.ummto.dz/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222c54d14609a1c21b21c7b"
+  },
+  "country": "Algeria",
+  "name": "Université d'Alger 3",
+  "domains": [
+    "univ-alger3.dz"
+  ],
+  "alpha_two_code": "DZ",
+  "state-province": null,
+  "web_pages": [
+    "http://www.univ-alger3.dz/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222c5df14609a1c21b21c7d"
+  },
+  "country": "France",
+  "name": "42 FR",
+  "domains": [
+    "student.42.fr"
+  ],
+  "alpha_two_code": "FR",
+  "state-province": null,
+  "web_pages": [
+    "http://www.42.fr/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222c5df14609a1c21b21c7e"
+  },
+  "country": "France",
+  "name": "Ecole de l'Air",
+  "domains": [
+    "aea.asso.fr"
+  ],
+  "alpha_two_code": "FR",
+  "state-province": null,
+  "web_pages": [
+    "http://www.aea.asso.fr/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222c5df14609a1c21b21c7f"
+  },
+  "country": "France",
+  "name": "AgroParisTech",
+  "domains": [
+    "agroparistech.fr"
+  ],
+  "alpha_two_code": "FR",
+  "state-province": null,
+  "web_pages": [
+    "http://www.agroparistech.fr/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222c5df14609a1c21b21c80"
+  },
+  "country": "France",
+  "name": "Ecole Nationale Supérieure d'Agronomie de Rennes",
+  "domains": [
+    "agro.roazhon.inra.fr"
+  ],
+  "alpha_two_code": "FR",
+  "state-province": null,
+  "web_pages": [
+    "http://agro.roazhon.inra.fr/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222c5df14609a1c21b21c81"
+  },
+  "country": "France",
+  "name": "Institut National Supérieur de Formation Agro-Alimentaire",
+  "domains": [
+    "agro.roazhon.inra.fr"
+  ],
+  "alpha_two_code": "FR",
+  "state-province": null,
+  "web_pages": [
+    "http://agro.roazhon.inra.fr/etab/insfa/accueil.htm"
+  ]
+}]
