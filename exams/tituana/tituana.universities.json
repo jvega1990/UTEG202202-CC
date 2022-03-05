@@ -1,0 +1,354 @@
+[{
+  "_id": {
+    "$oid": "6222e26bd916ba8a4d873435"
+  },
+  "country": "India",
+  "name": "University of Petroleum and Energy Studies",
+  "domains": [
+    "upes.ac.in"
+  ],
+  "alpha_two_code": "IN",
+  "state-province": "Dehradun",
+  "web_pages": [
+    "https://www.upes.ac.in/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222e26bd916ba8a4d873436"
+  },
+  "country": "India",
+  "name": "DAV Institute of Engineering & Technology",
+  "domains": [
+    "davietjal.org"
+  ],
+  "alpha_two_code": "IN",
+  "state-province": "Punjab",
+  "web_pages": [
+    "http://www.davietjal.org/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222e26bd916ba8a4d873437"
+  },
+  "country": "India",
+  "name": "Lovely Professional University",
+  "domains": [
+    "lpu.in"
+  ],
+  "alpha_two_code": "IN",
+  "state-province": "Punjab",
+  "web_pages": [
+    "http://www.lpu.in/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222e26bd916ba8a4d873438"
+  },
+  "country": "India",
+  "name": "Somaiya Vidyavihar",
+  "domains": [
+    "somaiya.edu"
+  ],
+  "alpha_two_code": "IN",
+  "state-province": null,
+  "web_pages": [
+    "https://somaiya.edu/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222e26bd916ba8a4d873439"
+  },
+  "country": "India",
+  "name": "NorthCap University",
+  "domains": [
+    "ncuindia.edu"
+  ],
+  "alpha_two_code": "IN",
+  "state-province": "Haryana",
+  "web_pages": [
+    "http://www.ncuindia.edu/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222e318d916ba8a4d87343c"
+  },
+  "country": "Uruguay",
+  "name": "Insituto Universitario - Centro Latinoamericano de Economia Humana - IU Claeh",
+  "domains": [
+    "claeh.edu.uy"
+  ],
+  "alpha_two_code": "UY",
+  "state-province": null,
+  "web_pages": [
+    "http://www.claeh.edu.uy/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222e318d916ba8a4d87343d"
+  },
+  "country": "Uruguay",
+  "name": "Universidad ORT Uruguay",
+  "domains": [
+    "ort.edu.uy"
+  ],
+  "alpha_two_code": "UY",
+  "state-province": null,
+  "web_pages": [
+    "http://www.ort.edu.uy/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222e318d916ba8a4d87343e"
+  },
+  "country": "Uruguay",
+  "name": "Universidad Católica del Uruguay",
+  "domains": [
+    "ucu.edu.uy"
+  ],
+  "alpha_two_code": "UY",
+  "state-province": null,
+  "web_pages": [
+    "http://www.ucu.edu.uy/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222e318d916ba8a4d87343f"
+  },
+  "country": "Uruguay",
+  "name": "Universidad de la Empresa (UDE)",
+  "domains": [
+    "ude.edu.uy"
+  ],
+  "alpha_two_code": "UY",
+  "state-province": null,
+  "web_pages": [
+    "http://www.ude.edu.uy/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222e318d916ba8a4d873440"
+  },
+  "country": "Uruguay",
+  "name": "Universidad de Montevideo",
+  "domains": [
+    "um.edu.uy"
+  ],
+  "alpha_two_code": "UY",
+  "state-province": null,
+  "web_pages": [
+    "http://www.um.edu.uy/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222e3a9d916ba8a4d873442"
+  },
+  "country": "Canada",
+  "name": "Cégep de Saint-Jérôme",
+  "domains": [
+    "cstj.qc.ca"
+  ],
+  "alpha_two_code": "CA",
+  "state-province": null,
+  "web_pages": [
+    "https://www.cstj.qc.ca",
+    "https://ccmt.cstj.qc.ca",
+    "https://ccml.cstj.qc.ca"
+  ]
+},{
+  "_id": {
+    "$oid": "6222e3a9d916ba8a4d873443"
+  },
+  "country": "Canada",
+  "name": "Lambton College",
+  "domains": [
+    "lambtoncollege.ca",
+    "mylambton.ca"
+  ],
+  "alpha_two_code": "CA",
+  "state-province": "Sarnia",
+  "web_pages": [
+    "https://www.lambtoncollege.ca"
+  ]
+},{
+  "_id": {
+    "$oid": "6222e3a9d916ba8a4d873444"
+  },
+  "country": "Canada",
+  "name": "Acadia University",
+  "domains": [
+    "acadiau.ca"
+  ],
+  "alpha_two_code": "CA",
+  "state-province": null,
+  "web_pages": [
+    "http://www.acadiau.ca/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222e3a9d916ba8a4d873445"
+  },
+  "country": "Canada",
+  "name": "Algonquin College",
+  "domains": [
+    "algonquincollege.com"
+  ],
+  "alpha_two_code": "CA",
+  "state-province": null,
+  "web_pages": [
+    "http://www.algonquincollege.com/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222e3a9d916ba8a4d873446"
+  },
+  "country": "Canada",
+  "name": "Ashton College",
+  "domains": [
+    "ashtoncollege.com"
+  ],
+  "alpha_two_code": "CA",
+  "state-province": null,
+  "web_pages": [
+    "http://www.ashtoncollege.com/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222e419d916ba8a4d873448"
+  },
+  "country": "Netherlands",
+  "name": "American University of the Caribbean, Sint Maarten",
+  "domains": [
+    "aucmed.edu"
+  ],
+  "alpha_two_code": "NL",
+  "state-province": null,
+  "web_pages": [
+    "http://www.aucmed.edu/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222e419d916ba8a4d873449"
+  },
+  "country": "Netherlands",
+  "name": "University of Sint Eustatius School of Medicine",
+  "domains": [
+    "eustatiusmed.edu"
+  ],
+  "alpha_two_code": "NL",
+  "state-province": null,
+  "web_pages": [
+    "http://www.eustatiusmed.edu/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222e419d916ba8a4d87344a"
+  },
+  "country": "Netherlands",
+  "name": "International University School of Medicine (IUSOM)",
+  "domains": [
+    "internationaluniversity-schoolofmedicine.org"
+  ],
+  "alpha_two_code": "NL",
+  "state-province": null,
+  "web_pages": [
+    "http://www.internationaluniversity-schoolofmedicine.org/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222e419d916ba8a4d87344b"
+  },
+  "country": "Netherlands",
+  "name": "St.James's School of Medicine, Bonaire",
+  "domains": [
+    "sjsm.org"
+  ],
+  "alpha_two_code": "NL",
+  "state-province": null,
+  "web_pages": [
+    "http://www.sjsm.org/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222e419d916ba8a4d87344c"
+  },
+  "country": "Netherlands",
+  "name": "University of the Netherlands Antilles, Curacao",
+  "domains": [
+    "una.an"
+  ],
+  "alpha_two_code": "NL",
+  "state-province": null,
+  "web_pages": [
+    "http://www.una.an/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222e4bcd916ba8a4d873456"
+  },
+  "country": "Belgium",
+  "name": "Brexgata University Academy",
+  "domains": [
+    "brexgata.eu"
+  ],
+  "alpha_two_code": "BE",
+  "state-province": null,
+  "web_pages": [
+    "http://www.brexgata.eu/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222e4bcd916ba8a4d873457"
+  },
+  "country": "Belgium",
+  "name": "European Carolus Magnus University",
+  "domains": [
+    "carolus-magnus-university.eu"
+  ],
+  "alpha_two_code": "BE",
+  "state-province": null,
+  "web_pages": [
+    "http://www.carolus-magnus-university.eu/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222e4bcd916ba8a4d873458"
+  },
+  "country": "Belgium",
+  "name": "College of Europe",
+  "domains": [
+    "coleurope.eu"
+  ],
+  "alpha_two_code": "BE",
+  "state-province": null,
+  "web_pages": [
+    "http://www.coleurope.eu/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222e4bcd916ba8a4d873459"
+  },
+  "country": "Belgium",
+  "name": "Continental Theological Seminary",
+  "domains": [
+    "ctsem.edu"
+  ],
+  "alpha_two_code": "BE",
+  "state-province": null,
+  "web_pages": [
+    "http://www.ctsem.edu/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222e4bcd916ba8a4d87345a"
+  },
+  "country": "Belgium",
+  "name": "ECAM - Institut Supérieur Industriel",
+  "domains": [
+    "ecam.be"
+  ],
+  "alpha_two_code": "BE",
+  "state-province": null,
+  "web_pages": [
+    "http://www.ecam.be/"
+  ]
+}]
