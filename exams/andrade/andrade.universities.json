@@ -1,0 +1,353 @@
+[{
+  "_id": {
+    "$oid": "6222c0904a039ac56be74dbf"
+  },
+  "country": "Uruguay",
+  "name": "Insituto Universitario - Centro Latinoamericano de Economia Humana - IU Claeh",
+  "domains": [
+    "claeh.edu.uy"
+  ],
+  "alpha_two_code": "UY",
+  "state-province": null,
+  "web_pages": [
+    "http://www.claeh.edu.uy/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222c0904a039ac56be74dc0"
+  },
+  "country": "Uruguay",
+  "name": "Universidad ORT Uruguay",
+  "domains": [
+    "ort.edu.uy"
+  ],
+  "alpha_two_code": "UY",
+  "state-province": null,
+  "web_pages": [
+    "http://www.ort.edu.uy/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222c0904a039ac56be74dc1"
+  },
+  "country": "Uruguay",
+  "name": "Universidad Católica del Uruguay",
+  "domains": [
+    "ucu.edu.uy"
+  ],
+  "alpha_two_code": "UY",
+  "state-province": null,
+  "web_pages": [
+    "http://www.ucu.edu.uy/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222c0904a039ac56be74dc2"
+  },
+  "country": "Uruguay",
+  "name": "Universidad de la Empresa (UDE)",
+  "domains": [
+    "ude.edu.uy"
+  ],
+  "alpha_two_code": "UY",
+  "state-province": null,
+  "web_pages": [
+    "http://www.ude.edu.uy/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222c0904a039ac56be74dc3"
+  },
+  "country": "Uruguay",
+  "name": "Universidad de Montevideo",
+  "domains": [
+    "um.edu.uy"
+  ],
+  "alpha_two_code": "UY",
+  "state-province": null,
+  "web_pages": [
+    "http://www.um.edu.uy/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222c0904a039ac56be74dc4"
+  },
+  "country": "Paraguay",
+  "name": "Universidad Columbia del Paraguay",
+  "domains": [
+    "columbia.edu.py"
+  ],
+  "alpha_two_code": "PY",
+  "state-province": null,
+  "web_pages": [
+    "http://www.columbia.edu.py/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222c0904a039ac56be74dc5"
+  },
+  "country": "Paraguay",
+  "name": "Universidad Autónoma de Asunción",
+  "domains": [
+    "uaa.edu.py"
+  ],
+  "alpha_two_code": "PY",
+  "state-province": null,
+  "web_pages": [
+    "http://www.uaa.edu.py/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222c0904a039ac56be74dc6"
+  },
+  "country": "Paraguay",
+  "name": "Universidad Americana",
+  "domains": [
+    "uamericana.edu.py"
+  ],
+  "alpha_two_code": "PY",
+  "state-province": null,
+  "web_pages": [
+    "http://www.uamericana.edu.py/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222c0904a039ac56be74dc7"
+  },
+  "country": "Paraguay",
+  "name": "Universidad Autónoma del Paraguay",
+  "domains": [
+    "uap.edu.py"
+  ],
+  "alpha_two_code": "PY",
+  "state-province": null,
+  "web_pages": [
+    "http://www.uap.edu.py/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222c0904a039ac56be74dc8"
+  },
+  "country": "Paraguay",
+  "name": "Universidad Católica Nuestra Senora de la Asunción",
+  "domains": [
+    "uc.edu.py"
+  ],
+  "alpha_two_code": "PY",
+  "state-province": null,
+  "web_pages": [
+    "http://www.uc.edu.py/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222c0904a039ac56be74dc9"
+  },
+  "country": "Kosovo",
+  "name": "American University In Kosovo",
+  "domains": [
+    "aukonline.org"
+  ],
+  "alpha_two_code": "XK",
+  "state-province": null,
+  "web_pages": [
+    "http://www.aukonline.org/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222c0904a039ac56be74dca"
+  },
+  "country": "Kosovo",
+  "name": "ILIRIA College",
+  "domains": [
+    "uiliria.org"
+  ],
+  "alpha_two_code": "XK",
+  "state-province": null,
+  "web_pages": [
+    "http://www.uiliria.org/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222c0904a039ac56be74dcb"
+  },
+  "country": "Kosovo",
+  "name": "University of Prishtina",
+  "domains": [
+    "uni-pr.edu"
+  ],
+  "alpha_two_code": "XK",
+  "state-province": null,
+  "web_pages": [
+    "http://www.uni-pr.edu/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222c0904a039ac56be74dcc"
+  },
+  "country": "Kosovo",
+  "name": "University of Prizren \"Ukshin Hoti\"",
+  "domains": [
+    "uni-prizren.com"
+  ],
+  "alpha_two_code": "XK",
+  "state-province": null,
+  "web_pages": [
+    "http://www.uni-prizren.com/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222c0904a039ac56be74dcd"
+  },
+  "country": "Kosovo",
+  "name": "Universum College",
+  "domains": [
+    "universum-ks.org"
+  ],
+  "alpha_two_code": "XK",
+  "state-province": null,
+  "web_pages": [
+    "http://www.universum-ks.org/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222c0904a039ac56be74dce"
+  },
+  "country": "Denmark",
+  "name": "Aarhus School of Architecture",
+  "domains": [
+    "a-aarhus.dk"
+  ],
+  "alpha_two_code": "DK",
+  "state-province": null,
+  "web_pages": [
+    "http://www.a-aarhus.dk/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222c0904a039ac56be74dcf"
+  },
+  "country": "Denmark",
+  "name": "Aalborg Business College",
+  "domains": [
+    "ah.dk"
+  ],
+  "alpha_two_code": "DK",
+  "state-province": null,
+  "web_pages": [
+    "http://www.ah.dk/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222c0904a039ac56be74dd0"
+  },
+  "country": "Denmark",
+  "name": "Aarhus Technical College",
+  "domains": [
+    "ats.dk"
+  ],
+  "alpha_two_code": "DK",
+  "state-province": null,
+  "web_pages": [
+    "http://www.ats.dk/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222c0904a039ac56be74dd1"
+  },
+  "country": "Denmark",
+  "name": "Aalborg University",
+  "domains": [
+    "auc.dk",
+    "aau.dk",
+    "student.aau.dk"
+  ],
+  "alpha_two_code": "DK",
+  "state-province": null,
+  "web_pages": [
+    "http://www.auc.dk/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222c0904a039ac56be74dd2"
+  },
+  "country": "Denmark",
+  "name": "Aarhus University",
+  "domains": [
+    "au.dk"
+  ],
+  "alpha_two_code": "DK",
+  "state-province": null,
+  "web_pages": [
+    "http://www.au.dk/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222c0904a039ac56be74dd3"
+  },
+  "country": "Cuba",
+  "name": "Instituto Superior Politécnico José Antonio Echeverría",
+  "domains": [
+    "cujae.edu.cu"
+  ],
+  "alpha_two_code": "CU",
+  "state-province": null,
+  "web_pages": [
+    "http://www.cujae.edu.cu/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222c0904a039ac56be74dd4"
+  },
+  "country": "Cuba",
+  "name": "Instituto Superior Minero Metalúrgico \"Dr. Antonio Núñez Jiménez\"",
+  "domains": [
+    "ismm.edu.cu"
+  ],
+  "alpha_two_code": "CU",
+  "state-province": null,
+  "web_pages": [
+    "http://www.ismm.edu.cu/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222c0904a039ac56be74dd5"
+  },
+  "country": "Cuba",
+  "name": "Universidad Pedagógica \"José Martí\", Camagüey",
+  "domains": [
+    "ispcmw.rimed.cu"
+  ],
+  "alpha_two_code": "CU",
+  "state-province": null,
+  "web_pages": [
+    "http://www.ispcmw.rimed.cu/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222c0904a039ac56be74dd6"
+  },
+  "country": "Cuba",
+  "name": "Universidad de Camagüey",
+  "domains": [
+    "reduc.edu.cu"
+  ],
+  "alpha_two_code": "CU",
+  "state-province": null,
+  "web_pages": [
+    "http://www.reduc.edu.cu/"
+  ]
+},{
+  "_id": {
+    "$oid": "6222c0904a039ac56be74dd7"
+  },
+  "country": "Cuba",
+  "name": "Universidad de Cienfuegos",
+  "domains": [
+    "ucf.edu.cu"
+  ],
+  "alpha_two_code": "CU",
+  "state-province": null,
+  "web_pages": [
+    "http://www.ucf.edu.cu/"
+  ]
+}]
