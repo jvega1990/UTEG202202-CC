@@ -1,0 +1,71 @@
+[{
+  "_id": {
+    "$oid": "62240be6bcf30e097c2283d2"
+  },
+  "country": "Ecuador",
+  "name": "Universidad Politécnica Salesiana",
+  "domains": [
+    "salesiana.edu.ec"
+  ],
+  "alpha_two_code": "ES",
+  "state-province": "Guayas",
+  "web_pages": [
+    "https://www.salesiana.edu.ec/"
+  ]
+},{
+  "_id": {
+    "$oid": "62240c2abcf30e097c2283d7"
+  },
+  "country": "Ecuador",
+  "name": "Universidad Politécnica del Litora",
+  "domains": [
+    "espol.edu.ec"
+  ],
+  "alpha_two_code": "ES",
+  "state-province": "Guayas",
+  "web_pages": [
+    "https://www.espol.edu.ec/"
+  ]
+},{
+  "_id": {
+    "$oid": "62240c39bcf30e097c2283d8"
+  },
+  "country": "Ecuador",
+  "name": "Universidad Tecnológica Empresarial de Guayaquil",
+  "domains": [
+    "uteg.edu.ec"
+  ],
+  "alpha_two_code": "ES",
+  "state-province": "Guayas",
+  "web_pages": [
+    "https://www.uteg.edu.ec/"
+  ]
+},{
+  "_id": {
+    "$oid": "62240c64bcf30e097c2283d9"
+  },
+  "country": "Ecuador",
+  "name": "Universidad de Guayaquil",
+  "domains": [
+    "ug.edu.ec"
+  ],
+  "alpha_two_code": "ES",
+  "state-province": "Guayas",
+  "web_pages": [
+    "https://www.ug.edu.ec/"
+  ]
+},{
+  "_id": {
+    "$oid": "62240c8ebcf30e097c2283da"
+  },
+  "country": "Ecuador",
+  "name": "Universidad Catolica Santiago de Guayaquil",
+  "domains": [
+    "ucsg.edu.ec"
+  ],
+  "alpha_two_code": "ES",
+  "state-province": "Guayas",
+  "web_pages": [
+    "https://www.ucsg.edu.ec/"
+  ]
+}]
