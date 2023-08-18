@@ -1,0 +1,359 @@
+[{
+  "_id": {
+    "$oid": "64dd94ee4b474e939ffd9703"
+  },
+  "ip": "179.60.136.50",
+  "city": "Guayaquil",
+  "region": "Guayas",
+  "country": "EC",
+  "loc": "-2.1962,-79.8862",
+  "org": "AS269992 Universidad de Guayaquil",
+  "timezone": "America/Guayaquil",
+  "readme": "https://ipinfo.io/missingauth"
+},
+{
+  "_id": {
+    "$oid": "64dd95474b474e939ffdf4b4"
+  },
+  "ip": "192.188.52.3",
+  "hostname": "www.ucsg.edu.ec",
+  "city": "Guayaquil",
+  "region": "Guayas",
+  "country": "EC",
+  "loc": "-2.1962,-79.8862",
+  "org": "AS61468 CEDIA",
+  "timezone": "America/Guayaquil",
+  "readme": "https://ipinfo.io/missingauth"
+},
+{
+  "_id": {
+    "$oid": "64dd96204b474e939ffecf0a"
+  },
+  "ip": "190.95.221.137",
+  "hostname": "www.iess.gob.ec",
+  "city": "Quito",
+  "region": "Pichincha",
+  "country": "EC",
+  "loc": "-0.2298,-78.5250",
+  "org": "AS27947 Telconet S.A",
+  "timezone": "America/Guayaquil",
+  "readme": "https://ipinfo.io/missingauth"
+},
+{
+  "_id": {
+    "$oid": "64dd97024b474e939fffbc33"
+  },
+  "ip": "192.188.59.149",
+  "city": "Guayaquil",
+  "region": "Guayas",
+  "country": "EC",
+  "loc": "-2.1962,-79.8862",
+  "org": "AS28027 Escuela Superior Politecnica del Litoral",
+  "timezone": "America/Guayaquil",
+  "readme": "https://ipinfo.io/missingauth"
+},
+{
+  "_id": {
+    "$oid": "64dd98684b474e939f013003"
+  },
+  "ip": "204.199.145.69",
+  "city": "Quito",
+  "region": "Pichincha",
+  "country": "EC",
+  "loc": "-0.2298,-78.5250",
+  "org": "AS3549 Level 3 Parent, LLC",
+  "timezone": "America/Guayaquil",
+  "readme": "https://ipinfo.io/missingauth"
+},
+{
+  "_id": {
+    "$oid": "64de32314b474e939fae1fd6"
+  },
+  "ip": "74.50.48.57",
+  "hostname": "vps.cfavorita-corporacion.yage.ec",
+  "city": "Richardson",
+  "region": "Texas",
+  "country": "US",
+  "loc": "32.9482,-96.7297",
+  "org": "AS17378 TierPoint, LLC",
+  "postal": "75080",
+  "timezone": "America/Chicago",
+  "readme": "https://ipinfo.io/missingauth"
+},
+{
+  "_id": {
+    "$oid": "64de33c34b474e939faff808"
+  },
+  "ip": "181.198.10.230",
+  "city": "Guayaquil",
+  "region": "Guayas",
+  "country": "EC",
+  "loc": "-2.1962,-79.8862",
+  "org": "AS27947 Telconet S.A",
+  "timezone": "America/Guayaquil",
+  "readme": "https://ipinfo.io/missingauth"
+},
+{
+  "_id": {
+    "$oid": "64de4bea4b474e939fcb4e99"
+  },
+  "ip": "65.8.177.92",
+  "hostname": "server-65-8-177-92.mia3.r.cloudfront.net",
+  "city": "Flagami",
+  "region": "Florida",
+  "country": "US",
+  "loc": "25.7623,-80.3162",
+  "org": "AS16509 Amazon.com, Inc.",
+  "postal": "33144",
+  "timezone": "America/New_York",
+  "readme": "https://ipinfo.io/missingauth"
+},
+{
+  "_id": {
+    "$oid": "64de6d7a4b474e939ff0029d"
+  },
+  "ip": "104.18.17.8",
+  "anycast": true,
+  "city": "San Francisco",
+  "region": "California",
+  "country": "US",
+  "loc": "37.7621,-122.3971",
+  "org": "AS13335 Cloudflare, Inc.",
+  "postal": "94107",
+  "timezone": "America/Los_Angeles",
+  "readme": "https://ipinfo.io/missingauth"
+},
+{
+  "_id": {
+    "$oid": "64de6dd54b474e939ff07d41"
+  },
+  "ip": "34.98.127.226",
+  "hostname": "226.127.98.34.bc.googleusercontent.com",
+  "anycast": true,
+  "city": "Kansas City",
+  "region": "Missouri",
+  "country": "US",
+  "loc": "39.0997,-94.5786",
+  "org": "AS396982 Google LLC",
+  "postal": "64106",
+  "timezone": "America/Chicago",
+  "readme": "https://ipinfo.io/missingauth"
+},
+{
+  "_id": {
+    "$oid": "64de6e7c4b474e939ff13bf9"
+  },
+  "ip": "23.13.75.138",
+  "hostname": "a23-13-75-138.deploy.static.akamaitechnologies.com",
+  "city": "Miami",
+  "region": "Florida",
+  "country": "US",
+  "loc": "25.7743,-80.1937",
+  "org": "AS16625 Akamai Technologies, Inc.",
+  "postal": "33101",
+  "timezone": "America/New_York",
+  "readme": "https://ipinfo.io/missingauth"
+},
+{
+  "_id": {
+    "$oid": "64de6eee4b474e939ff1be64"
+  },
+  "ip": "69.64.85.167",
+  "hostname": "apps.misiva.com.ec",
+  "city": "Phoenix",
+  "region": "Arizona",
+  "country": "US",
+  "loc": "33.4484,-112.0740",
+  "org": "AS18501 Codero",
+  "postal": "85001",
+  "timezone": "America/Phoenix",
+  "readme": "https://ipinfo.io/missingauth"
+},
+{
+  "_id": {
+    "$oid": "64de708d4b474e939ff38a33"
+  },
+  "ip": "54.175.147.217",
+  "hostname": "ec2-54-175-147-217.compute-1.amazonaws.com",
+  "city": "Ashburn",
+  "region": "Virginia",
+  "country": "US",
+  "loc": "39.0437,-77.4875",
+  "org": "AS14618 Amazon.com, Inc.",
+  "postal": "20147",
+  "timezone": "America/New_York",
+  "readme": "https://ipinfo.io/missingauth"
+},
+{
+  "_id": {
+    "$oid": "64dec8f54b474e939f59e2dc"
+  },
+  "ip": "104.21.93.208",
+  "anycast": true,
+  "city": "San Francisco",
+  "region": "California",
+  "country": "US",
+  "loc": "37.7621,-122.3971",
+  "org": "AS13335 Cloudflare, Inc.",
+  "postal": "94107",
+  "timezone": "America/Los_Angeles",
+  "readme": "https://ipinfo.io/missingauth"
+},
+{
+  "_id": {
+    "$oid": "64dec9714b474e939f5a6c28"
+  },
+  "ip": "104.17.177.182",
+  "anycast": true,
+  "city": "San Francisco",
+  "region": "California",
+  "country": "US",
+  "loc": "37.7621,-122.3971",
+  "org": "AS13335 Cloudflare, Inc.",
+  "postal": "94107",
+  "timezone": "America/Los_Angeles",
+  "readme": "https://ipinfo.io/missingauth"
+},
+{
+  "_id": {
+    "$oid": "64deca0c4b474e939f5b1618"
+  },
+  "ip": "13.32.87.103",
+  "hostname": "server-13-32-87-103.mia3.r.cloudfront.net",
+  "city": "Flagami",
+  "region": "Florida",
+  "country": "US",
+  "loc": "25.7623,-80.3162",
+  "org": "AS16509 Amazon.com, Inc.",
+  "postal": "33144",
+  "timezone": "America/New_York",
+  "readme": "https://ipinfo.io/missingauth"
+},
+{
+  "_id": {
+    "$oid": "64decab14b474e939f5bd149"
+  },
+  "ip": "143.166.30.167",
+  "hostname": "dellfinancial.com",
+  "city": "Dallas",
+  "region": "Texas",
+  "country": "US",
+  "loc": "32.7831,-96.8067",
+  "org": "AS3614 Dell, Inc.",
+  "postal": "75201",
+  "timezone": "America/Chicago",
+  "readme": "https://ipinfo.io/missingauth"
+},
+{
+  "_id": {
+    "$oid": "64decb1b4b474e939f5c49a9"
+  },
+  "ip": "15.72.80.134",
+  "hostname": "hpcom-llb-plano.inc.hp.com",
+  "city": "Plano",
+  "region": "Texas",
+  "country": "US",
+  "loc": "33.0198,-96.6989",
+  "org": "AS54680 HP Inc.",
+  "postal": "75026",
+  "timezone": "America/Chicago",
+  "readme": "https://ipinfo.io/missingauth"
+},
+{
+  "_id": {
+    "$oid": "64ded7924b474e939f6a461a"
+  },
+  "ip": "162.159.136.54",
+  "anycast": true,
+  "city": "San Francisco",
+  "region": "California",
+  "country": "US",
+  "loc": "37.7621,-122.3971",
+  "org": "AS13335 Cloudflare, Inc.",
+  "postal": "94107",
+  "timezone": "America/Los_Angeles",
+  "readme": "https://ipinfo.io/missingauth"
+},
+{
+  "_id": {
+    "$oid": "64ded9344b474e939f6c0c72"
+  },
+  "ip": "45.180.125.166",
+  "city": "Guayaquil",
+  "region": "Guayas",
+  "country": "EC",
+  "loc": "-2.1962,-79.8862",
+  "org": "AS267931 BANCO DEL PACIFICO S.A.",
+  "timezone": "America/Guayaquil",
+  "readme": "https://ipinfo.io/missingauth"
+},
+{
+  "_id": {
+    "$oid": "64deda444b474e939f6d4761"
+  },
+  "ip": "13.107.246.57",
+  "anycast": true,
+  "city": "Redmond",
+  "region": "Washington",
+  "country": "US",
+  "loc": "47.6740,-122.1215",
+  "org": "AS8075 Microsoft Corporation",
+  "postal": "98052",
+  "timezone": "America/Los_Angeles",
+  "readme": "https://ipinfo.io/missingauth"
+},
+{
+  "_id": {
+    "$oid": "64dedab14b474e939f6db990"
+  },
+  "ip": "200.7.212.24",
+  "city": "Quito",
+  "region": "Pichincha",
+  "country": "EC",
+  "loc": "-0.2298,-78.5250",
+  "org": "AS19114 Otecel S.A.",
+  "timezone": "America/Guayaquil",
+  "readme": "https://ipinfo.io/missingauth"
+},
+{
+  "_id": {
+    "$oid": "64dedb064b474e939f6e1579"
+  },
+  "ip": "66.225.237.128",
+  "city": "Ashburn",
+  "region": "Virginia",
+  "country": "US",
+  "loc": "39.0437,-77.4875",
+  "org": "AS25773 RADWARE INC.",
+  "postal": "20147",
+  "timezone": "America/New_York",
+  "readme": "https://ipinfo.io/missingauth"
+},
+{
+  "_id": {
+    "$oid": "64dedb534b474e939f6e6a95"
+  },
+  "ip": "170.238.171.131",
+  "hostname": "www.bancoguayaquil.com",
+  "city": "Guayaquil",
+  "region": "Guayas",
+  "country": "EC",
+  "loc": "-2.1962,-79.8862",
+  "org": "AS264801 BANCO GUAYAQUIL",
+  "timezone": "America/Guayaquil",
+  "readme": "https://ipinfo.io/missingauth"
+},
+{
+  "_id": {
+    "$oid": "64dedbf74b474e939f6f276c"
+  },
+  "ip": "20.73.120.235",
+  "city": "Amsterdam",
+  "region": "North Holland",
+  "country": "NL",
+  "loc": "52.3740,4.8897",
+  "org": "AS8075 Microsoft Corporation",
+  "postal": "1012",
+  "timezone": "Europe/Amsterdam",
+  "readme": "https://ipinfo.io/missingauth"
+}]
