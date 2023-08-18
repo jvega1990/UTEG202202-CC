@@ -1,0 +1,372 @@
+---1---
+/* www.uteg.edu.ec */
+{
+  "ip": "200.32.73.198",
+  "nombre de host": "mail.uteg.edu.ec",
+  "ciudad": "Quito",
+  "región": "Pichincha",
+  "país": "CE",
+  "loc": "-0.2298,-78.5250",
+  "org": "AS3549 Nivel 3 Matriz, LLC",
+  "timezone": "América/Guayaquil",
+  "léame": "https://ipinfo.io/missingauth"
+}
+
+
+---2---
+/* www.espol.edu.ec */
+{
+  "ip": "192.188.59.149",
+  "ciudad": "Guayaquil",
+  "región": "Guayas",
+  "país": "CE",
+  "loc": "-2.1962,-79.8862",
+  "org": "AS28027 Escuela Superior Politécnica del Litoral",
+  "timezone": "América/Guayaquil",
+  "léame": "https://ipinfo.io/missingauth"
+}
+
+
+---3---
+/* www.utpl.edu.ec */
+{
+  "ip": "52.232.229.93",
+  "ciudad": "Boydton",
+  "región": "Virginia",
+  "país": "Estados Unidos",
+  "ubicación": "36.6676,-78.3875",
+  "org": "AS8075 Microsoft Corporación",
+  "postal": "23917",
+  "timezone": "América/Nueva_York",
+  "léame": "https://ipinfo.io/missingauth"
+}
+
+---4---
+/* www.uees.edu.ec */
+{
+  "ip": "200.1.161.62",
+  "nombre de host": "uees.edu.ec",
+  "ciudad": "Samborondón",
+  "región": "Guayas",
+  "país": "CE",
+  "loc": "-1.9628,-79.7240",
+  "org": "AS269941 Universidad Particular de Especialidades Espíritu Santo",
+  "timezone": "América/Guayaquil",
+  "léame": "https://ipinfo.io/missingauth"
+}
+
+
+---5---
+/* www.claro.com.ec */
+{
+  "ip": "23.222.78.51",
+  "nombre de host": "a23-222-78-51.deploy.static.akamaitechnologies.com",
+  "ciudad": "Miami",
+  "región": "Florida",
+  "país": "Estados Unidos",
+  "ubicación": "25.7743,-80.1937",
+  "org": "AS20940 Akamai International BV",
+  "postal": "33101",
+  "timezone": "América/Nueva_York",
+  "léame": "https://ipinfo.io/missingauth"
+}
+
+
+---6---  
+/* www.utmachala.edu.ec */
+{
+  "ip": "190.15.128.129",
+  "ciudad": "Quevedo",
+  "región": "Los Ríos",
+  "país": "CE",
+  "loc": "-1.0286,-79.4635",
+  "org": "AS61468 CEDIA",
+  "timezone": "América/Guayaquil",
+  "léame": "https://ipinfo.io/missingauth"
+}
+
+
+---7---
+/* www.ug.edu.ec */
+{
+  "ip": "179.60.136.50",
+  "ciudad": "Guayaquil",
+  "región": "Guayas",
+  "país": "CE",
+  "loc": "-2.1962,-79.8862",
+  "org": "AS269992 Universidad de Guayaquil",
+  "timezone": "América/Guayaquil",
+  "léame": "https://ipinfo.io/missingauth"
+}
+
+
+---8---
+/* www.ute.edu.ec */
+{
+  "ip": "190.15.133.207",
+  "ciudad": "Quito",
+  "región": "Pichincha",
+  "país": "CE",
+  "loc": "-0.2298,-78.5250",
+  "org": "AS61468 CEDIA",
+  "timezone": "América/Guayaquil",
+  "léame": "https://ipinfo.io/missingauth"
+}
+
+
+---9---
+/* www.ups.edu.ec */
+{
+  "ip": "45.235.140.7",
+  "ciudad": "Cuenca",
+  "región": "Azuay",
+  "país": "CE",
+  "loc": "-2.9005,-79.0045",
+  "org": "AS61468 CEDIA",
+  "timezone": "América/Guayaquil",
+  "léame": "https://ipinfo.io/missingauth"
+}
+
+
+---10---
+/* www.unibe.edu.ec */
+{
+  "ip": "35.209.36.11",
+  "nombre de host": "11.36.209.35.bc.googleusercontent.com",
+  "ciudad": "Consejo Bluffs",
+  "región": "Iowa",
+  "país": "Estados Unidos",
+  "ubicación": "41.2619,-95.8608",
+  "org": "AS19527 Google LLC",
+  "postal": "51502",
+  "timezone": "América/Chicago",
+  "léame": "https://ipinfo.io/missingauth"
+}
+
+
+---11---
+/* www.espe.edu.ec */
+{
+  "ip": "192.188.58.167",
+  "nombre de host": "www.espe.edu.ec",
+  "ciudad": "Sangolquí",
+  "región": "Pichincha",
+  "país": "CE",
+  "loc": "-0.3341,-78.4522",
+  "org": "AS61468 CEDIA",
+  "timezone": "América/Guayaquil",
+  "léame": "https://ipinfo.io/missingauth"
+}
+
+
+---12---
+/* www.ube.edu.ec */
+{
+  "ip": "174.142.221.74",
+  "nombre de host": "s420.panelbox.net",
+  "ciudad": "Montreal",
+  "región": "Quebec",
+  "país": "CA",
+  "ubicación": "45.5088,-73.5878",
+  "org": "AS32613 iWeb Technologies Inc.",
+  "postal": "H3H",
+  "timezone": "América/Toronto",
+  "léame": "https://ipinfo.io/missingauth"
+}
+
+
+---13---
+/* www.ucsg.edu.ec */
+{
+  "ip": "192.188.52.3",
+  "nombre de host": "www.ucsg.edu.ec",
+  "ciudad": "Guayaquil",
+  "región": "Guayas",
+  "país": "CE",
+  "loc": "-2.1962,-79.8862",
+  "org": "AS61468 CEDIA",
+  "timezone": "América/Guayaquil",
+  "léame": "https://ipinfo.io/missingauth"
+}
+
+
+---14---
+/* www.unach.edu.ec */
+{
+  "ip": "190.15.133.159",
+  "ciudad": "Quito",
+  "región": "Pichincha",
+  "país": "CE",
+  "loc": "-0.2298,-78.5250",
+  "org": "AS61468 CEDIA",
+  "timezone": "América/Guayaquil",
+  "léame": "https://ipinfo.io/missingauth"
+}
+
+
+---15---
+/* www.umet.edu.ec */
+{
+  "ip": "3.131.3.43",
+  "nombre de host": "ec2-3-131-3-43.us-east-2.compute.amazonaws.com",
+  "ciudad": "Hilliard",
+  "región": "Ohio",
+  "país": "Estados Unidos",
+  "ubicación": "40.0334,-83.1582",
+  "org": "AS16509 Amazon.com, Inc.",
+  "postal": "43026",
+  "timezone": "América/Nueva_York",
+  "léame": "https://ipinfo.io/missingauth"
+}
+
+---16---
+/* www.fundamedios.org.ec */
+{
+  "ip": "83.68.31.185",
+  "ciudad": "Ámsterdam",
+  "región": "Holanda Septentrional",
+  "país": "NL",
+  "ubicación": "52.3740,4.8897",
+  "org": "AS3265 KPN BV",
+  "postal": "1012",
+  "timezone": "Europa/Ámsterdam",
+  "léame": "https://ipinfo.io/missingauth"
+}
+
+
+---17---
+/* www.epn.edu.ec */
+{
+  "ip": "190.15.133.21",
+  "ciudad": "Quito",
+  "región": "Pichincha",
+  "país": "CE",
+  "loc": "-0.2298,-78.5250",
+  "org": "AS61468 CEDIA",
+  "timezone": "América/Guayaquil",
+  "léame": "https://ipinfo.io/missingauth"
+}
+
+
+---18---
+/* www.udla.edu.ec */
+{
+  "ip": "201.234.80.202",
+  "ciudad": "Quito",
+  "región": "Pichincha",
+  "país": "CE",
+  "loc": "-0.2298,-78.5250",
+  "org": "AS10753 Nivel 3 Matriz, LLC",
+  "timezone": "América/Guayaquil",
+  "léame": "https://ipinfo.io/missingauth"
+}
+
+
+---19---
+/* www.eude.ec */
+{
+  "ip": "34.254.21.15",
+  "nombre de host": "ec2-34-254-21-15.eu-west-1.compute.amazonaws.com",
+  "ciudad": "Dublín",
+  "región": "Leinster",
+  "país": "ES",
+  "ubicación": "53.3331,-6.2489",
+  "org": "AS16509 Amazon.com, Inc.",
+  "postal": "D02",
+  "timezone": "Europa/Dublín",
+  "léame": "https://ipinfo.io/missingauth"
+}
+
+
+---20---
+/* www.usfq.edu.ec */
+{
+  "ip": "65.8.178.55",
+  "nombre de host": "servidor-65-8-178-55.mia3.r.cloudfront.net",
+  "ciudad": "Flagamis",
+  "región": "Florida",
+  "país": "Estados Unidos",
+  "ubicación": "25.7623,-80.3162",
+  "org": "AS16509 Amazon.com, Inc.",
+  "postal": "33144",
+  "timezone": "América/Nueva_York",
+  "léame": "https://ipinfo.io/missingauth"
+}
+
+
+---21---
+/* www.eluniverso.com */
+{
+  "ip": "181.112.12.16",
+  "nombre de host": "16.12.112.181.static.anycast.cnt-grms.ec",
+  "ciudad": "Quito",
+  "región": "Pichincha",
+  "país": "CE",
+  "loc": "-0.2298,-78.5250",
+  "org": "AS28006 CORPORACION NACIONAL DE TELECOMUNICACIONES - CNT EP",
+  "timezone": "América/Guayaquil",
+  "léame": "https://ipinfo.io/missingauth"
+}
+
+
+---22---
+/* www.eltelegrafo.com.ec */
+{
+  "ip": "172.67.140.3",
+  "anycast": "cierto",
+  "ciudad": "San Francisco",
+  "región": "California",
+  "país": "Estados Unidos",
+  "ubicación": "37.7621,-122.3971",
+  "org": "AS13335 Cloudflare, Inc.",
+  "postal": "94107",
+  "timezone": "América/Los_Ángeles",
+  "léame": "https://ipinfo.io/missingauth"
+}
+
+
+---23---
+/* www.expreso.ec */
+{
+  "ip": "199.232.34.133",
+  "ciudad": "Atlanta",
+  "región": "Georgia",
+  "país": "Estados Unidos",
+  "ubicación": "33.7490,-84.3880",
+  "org": "AS54113 Fastly, Inc.",
+  "postal": "30302",
+  "timezone": "América/Nueva_York",
+  "léame": "https://ipinfo.io/missingauth"
+}
+
+
+---24---
+/* www.elcomercio.com */
+{
+  "ip": "99.84.252.74",
+  "nombre de host": "servidor-99-84-252-74.mia3.r.cloudfront.net",
+  "ciudad": "Flagamis",
+  "región": "Florida",
+  "país": "Estados Unidos",
+  "ubicación": "25.7623,-80.3162",
+  "org": "AS16509 Amazon.com, Inc.",
+  "postal": "33144",
+  "timezone": "América/Nueva_York",
+  "léame": "https://ipinfo.io/missingauth"
+}
+
+
+---25---
+/* www.lahora.com.ec */
+{
+  "ip": "104.26.14.143",
+  "anycast": "cierto",
+  "ciudad": "San Francisco",
+  "región": "California",
+  "país": "Estados Unidos",
+  "ubicación": "37.7621,-122.3971",
+  "org": "AS13335 Cloudflare, Inc.",
+  "postal": "94107",
+  "timezone": "América/Los_Ángeles",
+  "léame": "https://ipinfo.io/missingauth"
+}
