@@ -1,0 +1,369 @@
+[{
+  "_id": {
+    "$oid": "64dd9545a7b4da59250c7cb9"
+  },
+  "ip": "192.188.52.3",
+  "hostname": "www.ucsg.edu.ec",
+  "city": "Guayaquil",
+  "region": "Guayas",
+  "country": "EC",
+  "loc": "-2.1962,-79.8862",
+  "org": "AS61468 CEDIA",
+  "timezone": "America/Guayaquil",
+  "readme": "https://ipinfo.io/missingauth"
+},
+{
+  "_id": {
+    "$oid": "64dd9611a7b4da59250e9eea"
+  },
+  "ip": "179.60.136.50",
+  "city": "Guayaquil",
+  "region": "Guayas",
+  "country": "EC",
+  "loc": "-2.1962,-79.8862",
+  "org": "AS269992 Universidad de Guayaquil",
+  "timezone": "America/Guayaquil",
+  "readme": "https://ipinfo.io/missingauth"
+},
+{
+  "_id": {
+    "$oid": "64e0a7a3295442ceffa88b05"
+  },
+  "ip": "74.50.48.208",
+  "hostname": "vps.cfavorita-supermaxi.yage.ec",
+  "city": "Richardson",
+  "region": "Texas",
+  "country": "US",
+  "loc": "32.9482,-96.7297",
+  "org": "AS17378 TierPoint, LLC",
+  "postal": "75080",
+  "timezone": "America/Chicago",
+  "readme": "https://ipinfo.io/missingauth"
+},
+{
+  "_id": {
+    "$oid": "64e0b3db295442ceffa88b08"
+  },
+  "ip": "34.205.248.193",
+  "hostname": "ec2-34-205-248-193.compute-1.amazonaws.com",
+  "city": "Ashburn",
+  "region": "Virginia",
+  "country": "US",
+  "loc": "39.0437,-77.4875",
+  "org": "AS14618 Amazon.com, Inc.",
+  "postal": "20147",
+  "timezone": "America/New_York",
+  "readme": "https://ipinfo.io/missingauth"
+},
+{
+  "_id": {
+    "$oid": "64e0b415295442ceffa88b0a"
+  },
+  "ip": "23.34.59.23",
+  "hostname": "a23-34-59-23.deploy.static.akamaitechnologies.com",
+  "city": "Edison",
+  "region": "New Jersey",
+  "country": "US",
+  "loc": "40.5187,-74.4121",
+  "org": "AS20940 Akamai International B.V.",
+  "postal": "08899",
+  "timezone": "America/New_York",
+  "readme": "https://ipinfo.io/missingauth"
+},
+{
+  "_id": {
+    "$oid": "64e0b447295442ceffa88b0c"
+  },
+  "ip": "45.60.240.169",
+  "anycast": true,
+  "city": "Redwood City",
+  "region": "California",
+  "country": "US",
+  "loc": "37.5331,-122.2486",
+  "org": "AS19551 Incapsula Inc",
+  "postal": "94065",
+  "timezone": "America/Los_Angeles",
+  "readme": "https://ipinfo.io/missingauth"
+},
+{
+  "_id": {
+    "$oid": "64e0b4e2295442ceffa88b0e"
+  },
+  "ip": "2801:0:20:13:250:56ff:fead:1f83",
+  "city": "Guayaquil",
+  "region": "Guayas",
+  "country": "EC",
+  "loc": "-2.1962,-79.8862",
+  "org": "AS28027 Escuela Superior Politecnica del Litoral",
+  "timezone": "America/Guayaquil",
+  "readme": "https://ipinfo.io/missingauth"
+},
+{
+  "_id": {
+    "$oid": "64e0b508295442ceffa88b10"
+  },
+  "ip": "2607:f8b0:4006:822::2003",
+  "city": "New York City",
+  "region": "New York",
+  "country": "US",
+  "loc": "40.7143,-74.0060",
+  "org": "AS15169 Google LLC",
+  "postal": "10001",
+  "timezone": "America/New_York",
+  "readme": "https://ipinfo.io/missingauth"
+},
+{
+  "_id": {
+    "$oid": "64e0b57b295442ceffa88b12"
+  },
+  "ip": "54.194.180.226",
+  "hostname": "ec2-54-194-180-226.eu-west-1.compute.amazonaws.com",
+  "city": "Dublin",
+  "region": "Leinster",
+  "country": "IE",
+  "loc": "53.3331,-6.2489",
+  "org": "AS16509 Amazon.com, Inc.",
+  "postal": "D02",
+  "timezone": "Europe/Dublin",
+  "readme": "https://ipinfo.io/missingauth"
+},
+{
+  "_id": {
+    "$oid": "64e0b5f3295442ceffa88b15"
+  },
+  "ip": "107.180.13.113",
+  "hostname": "113.13.180.107.host.secureserver.net",
+  "city": "Ashburn",
+  "region": "Virginia",
+  "country": "US",
+  "loc": "39.0437,-77.4875",
+  "org": "AS26496 GoDaddy.com, LLC",
+  "postal": "20147",
+  "timezone": "America/New_York",
+  "readme": "https://ipinfo.io/missingauth"
+},
+{
+  "_id": {
+    "$oid": "64e0b70a295442ceffa88b17"
+  },
+  "ip": "34.160.200.251",
+  "hostname": "251.200.160.34.bc.googleusercontent.com",
+  "anycast": true,
+  "city": "Kansas City",
+  "region": "Missouri",
+  "country": "US",
+  "loc": "39.0997,-94.5786",
+  "org": "AS15169 Google LLC",
+  "postal": "64106",
+  "timezone": "America/Chicago",
+  "readme": "https://ipinfo.io/missingauth"
+},
+{
+  "_id": {
+    "$oid": "64e0b735295442ceffa88b19"
+  },
+  "ip": "104.77.220.218",
+  "hostname": "a104-77-220-218.deploy.static.akamaitechnologies.com",
+  "city": "Secaucus",
+  "region": "New Jersey",
+  "country": "US",
+  "loc": "40.7895,-74.0565",
+  "org": "AS16625 Akamai Technologies, Inc.",
+  "postal": "07094",
+  "timezone": "America/New_York",
+  "readme": "https://ipinfo.io/missingauth"
+},
+{
+  "_id": {
+    "$oid": "64e0b7b8295442ceffa88b1b"
+  },
+  "ip": "104.77.220.218",
+  "hostname": "a104-77-220-218.deploy.static.akamaitechnologies.com",
+  "city": "Secaucus",
+  "region": "New Jersey",
+  "country": "US",
+  "loc": "40.7895,-74.0565",
+  "org": "AS16625 Akamai Technologies, Inc.",
+  "postal": "07094",
+  "timezone": "America/New_York",
+  "readme": "https://ipinfo.io/missingauth"
+},
+{
+  "_id": {
+    "$oid": "64e0b845295442ceffa88b1d"
+  },
+  "ip": "66.235.200.146",
+  "hostname": "host77.ipowerweb.com",
+  "anycast": true,
+  "city": "Jacksonville",
+  "region": "Florida",
+  "country": "US",
+  "loc": "30.2214,-81.5571",
+  "org": "AS13335 Cloudflare, Inc.",
+  "postal": "32256",
+  "timezone": "America/New_York",
+  "readme": "https://ipinfo.io/missingauth"
+},
+{
+  "_id": {
+    "$oid": "64e0b889295442ceffa88b1f"
+  },
+  "ip": "66.22.15.237",
+  "city": "Ashburn",
+  "region": "Virginia",
+  "country": "US",
+  "loc": "39.0437,-77.4875",
+  "org": "AS25773 RADWARE INC.",
+  "postal": "20147",
+  "timezone": "America/New_York",
+  "readme": "https://ipinfo.io/missingauth"
+},
+{
+  "_id": {
+    "$oid": "64e0b94a295442ceffa88b21"
+  },
+  "ip": "2606:4700:4400::6812:235f",
+  "anycast": true,
+  "city": "San Francisco",
+  "region": "California",
+  "country": "US",
+  "loc": "37.7621,-122.3971",
+  "org": "AS13335 Cloudflare, Inc.",
+  "postal": "94107",
+  "timezone": "America/Los_Angeles",
+  "readme": "https://ipinfo.io/missingauth"
+},
+{
+  "_id": {
+    "$oid": "64e0b989295442ceffa88b23"
+  },
+  "ip": "2600:141b:9000:28c::122a",
+  "city": "Secaucus",
+  "region": "New Jersey",
+  "country": "US",
+  "loc": "40.7895,-74.0565",
+  "org": "AS20940 Akamai International B.V.",
+  "postal": "07094",
+  "timezone": "America/New_York",
+  "readme": "https://ipinfo.io/missingauth"
+},
+{
+  "_id": {
+    "$oid": "64e0b9e7295442ceffa88b25"
+  },
+  "ip": "104.86.97.187",
+  "hostname": "a104-86-97-187.deploy.static.akamaitechnologies.com",
+  "city": "Piscataway",
+  "region": "New Jersey",
+  "country": "US",
+  "loc": "40.4993,-74.3990",
+  "org": "AS16625 Akamai Technologies, Inc.",
+  "postal": "08854",
+  "timezone": "America/New_York",
+  "readme": "https://ipinfo.io/missingauth"
+},
+{
+  "_id": {
+    "$oid": "64e0ba2d295442ceffa88b27"
+  },
+  "ip": "184.29.162.52",
+  "hostname": "a184-29-162-52.deploy.static.akamaitechnologies.com",
+  "city": "Piscataway",
+  "region": "New Jersey",
+  "country": "US",
+  "loc": "40.4993,-74.3990",
+  "org": "AS20940 Akamai International B.V.",
+  "postal": "08854",
+  "timezone": "America/New_York",
+  "readme": "https://ipinfo.io/missingauth"
+},
+{
+  "_id": {
+    "$oid": "64e0ba61295442ceffa88b29"
+  },
+  "ip": "192.0.66.32",
+  "anycast": true,
+  "city": "San Francisco",
+  "region": "California",
+  "country": "US",
+  "loc": "37.7509,-122.4153",
+  "org": "AS2635 Automattic, Inc",
+  "postal": "94110",
+  "timezone": "America/Los_Angeles",
+  "readme": "https://ipinfo.io/missingauth"
+},
+{
+  "_id": {
+    "$oid": "64e0bac0295442ceffa88b2c"
+  },
+  "ip": "23.216.132.53",
+  "hostname": "a23-216-132-53.deploy.static.akamaitechnologies.com",
+  "city": "Piscataway",
+  "region": "New Jersey",
+  "country": "US",
+  "loc": "40.4993,-74.3990",
+  "org": "AS20940 Akamai International B.V.",
+  "postal": "08854",
+  "timezone": "America/New_York",
+  "readme": "https://ipinfo.io/missingauth"
+},
+{
+  "_id": {
+    "$oid": "64e0bafc295442ceffa88b2e"
+  },
+  "ip": "76.223.105.230",
+  "hostname": "a16e665f42988324c.awsglobalaccelerator.com",
+  "anycast": true,
+  "city": "Seattle",
+  "region": "Washington",
+  "country": "US",
+  "loc": "47.5413,-122.3129",
+  "org": "AS16509 Amazon.com, Inc.",
+  "postal": "98108",
+  "timezone": "America/Los_Angeles",
+  "readme": "https://ipinfo.io/missingauth"
+},
+{
+  "_id": {
+    "$oid": "64e0bb9d295442ceffa88b30"
+  },
+  "ip": "23.205.2.215",
+  "hostname": "a23-205-2-215.deploy.static.akamaitechnologies.com",
+  "city": "Piscataway",
+  "region": "New Jersey",
+  "country": "US",
+  "loc": "40.4993,-74.3990",
+  "org": "AS16625 Akamai Technologies, Inc.",
+  "postal": "08854",
+  "timezone": "America/New_York",
+  "readme": "https://ipinfo.io/missingauth"
+},
+{
+  "_id": {
+    "$oid": "64e0bbd9295442ceffa88b32"
+  },
+  "ip": "52.232.229.93",
+  "city": "Boydton",
+  "region": "Virginia",
+  "country": "US",
+  "loc": "36.6676,-78.3875",
+  "org": "AS8075 Microsoft Corporation",
+  "postal": "23917",
+  "timezone": "America/New_York",
+  "readme": "https://ipinfo.io/missingauth"
+},
+{
+  "_id": {
+    "$oid": "64e0bc0e295442ceffa88b34"
+  },
+  "ip": "23.205.35.185",
+  "hostname": "a23-205-35-185.deploy.static.akamaitechnologies.com",
+  "city": "Piscataway",
+  "region": "New Jersey",
+  "country": "US",
+  "loc": "40.4993,-74.3990",
+  "org": "AS16625 Akamai Technologies, Inc.",
+  "postal": "08854",
+  "timezone": "America/New_York",
+  "readme": "https://ipinfo.io/missingauth"
+}]
