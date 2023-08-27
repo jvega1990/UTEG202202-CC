@@ -1,0 +1,376 @@
+[{
+  "_id": {
+    "$oid": "64ea29927092bcdc8c20d99e"
+  },
+  "alpha_two_code": "ES",
+  "domains": [
+    "barcelonagse.eu"
+  ],
+  "state-province": null,
+  "country": "Spain",
+  "name": "Barcelona Graduate School of Economics",
+  "web_pages": [
+    "http://www.barcelonagse.eu/"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64ea2a037092bcdc8c20d9a0"
+  },
+  "alpha_two_code": "ES",
+  "domains": [
+    "bircham.edu"
+  ],
+  "state-province": null,
+  "country": "Spain",
+  "name": "Bircham International University",
+  "web_pages": [
+    "http://www.bircham.edu/"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64ea317d7092bcdc8c20d9a2"
+  },
+  "alpha_two_code": "ES",
+  "domains": [
+    "ceu.es"
+  ],
+  "state-province": null,
+  "country": "Spain",
+  "name": "Universidad de San Pablo CEU",
+  "web_pages": [
+    "http://www.ceu.es/"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64ea31d17092bcdc8c20d9a5"
+  },
+  "alpha_two_code": "ES",
+  "domains": [
+    "deusto.es"
+  ],
+  "state-province": null,
+  "country": "Spain",
+  "name": "Universidad de Deusto",
+  "web_pages": [
+    "http://www.deusto.es/"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64ea31e57092bcdc8c20d9a7"
+  },
+  "alpha_two_code": "ES",
+  "domains": [
+    "ehu.es",
+    "ehu.eus"
+  ],
+  "state-province": null,
+  "country": "Spain",
+  "name": "Universidad del País Vasco",
+  "web_pages": [
+    "http://www.ehu.es/"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64ea32027092bcdc8c20d9a9"
+  },
+  "alpha_two_code": "GR",
+  "domains": [
+    "acg.gr"
+  ],
+  "state-province": null,
+  "country": "Greece",
+  "name": "American College of Greece",
+  "web_pages": [
+    "http://www.acg.gr/"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64ea32247092bcdc8c20d9ab"
+  },
+  "alpha_two_code": "GR",
+  "domains": [
+    "act.edu"
+  ],
+  "state-province": null,
+  "country": "Greece",
+  "name": "American College of Thessaloniki",
+  "web_pages": [
+    "http://www.act.edu/"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64ea323f7092bcdc8c20d9ad"
+  },
+  "alpha_two_code": "GR",
+  "domains": [
+    "aegean.gr"
+  ],
+  "state-province": null,
+  "country": "Greece",
+  "name": "Aegean University",
+  "web_pages": [
+    "http://www.aegean.gr/"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64ea32527092bcdc8c20d9af"
+  },
+  "alpha_two_code": "GR",
+  "domains": [
+    "agsm.gr"
+  ],
+  "state-province": null,
+  "country": "Greece",
+  "name": "Athens Graduate School of Management (AGSM)",
+  "web_pages": [
+    "http://www.agsm.gr/"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64ea326f7092bcdc8c20d9b1"
+  },
+  "alpha_two_code": "GR",
+  "domains": [
+    "alba.edu.gr"
+  ],
+  "state-province": null,
+  "country": "Greece",
+  "name": "Athens Laboratory of Business Administration (ALBA)",
+  "web_pages": [
+    "http://www.alba.edu.gr/"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64ea329e7092bcdc8c20d9b3"
+  },
+  "alpha_two_code": "PE",
+  "domains": [
+    "champagnat.edu.pe"
+  ],
+  "state-province": null,
+  "country": "Peru",
+  "name": "Universidad Marcelino Champagnat",
+  "web_pages": [
+    "http://www.champagnat.edu.pe/"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64ea32b57092bcdc8c20d9b5"
+  },
+  "alpha_two_code": "PE",
+  "domains": [
+    "lamolina.edu.pe"
+  ],
+  "state-province": null,
+  "country": "Peru",
+  "name": "Universidad Nacional Agraria La Molina",
+  "web_pages": [
+    "http://www.lamolina.edu.pe/"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64ea32cb7092bcdc8c20d9b7"
+  },
+  "alpha_two_code": "PE",
+  "domains": [
+    "pucp.edu.pe"
+  ],
+  "state-province": null,
+  "country": "Peru",
+  "name": "Pontificia Universidad Católica del Perú",
+  "web_pages": [
+    "http://www.pucp.edu.pe/"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64ea32e27092bcdc8c20d9b9"
+  },
+  "alpha_two_code": "PE",
+  "domains": [
+    "sil.edu.pe"
+  ],
+  "state-province": null,
+  "country": "Peru",
+  "name": "Universidad San Ignacio de Loyola",
+  "web_pages": [
+    "http://www.sil.edu.pe/"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64ea32f77092bcdc8c20d9bb"
+  },
+  "alpha_two_code": "PE",
+  "domains": [
+    "uancv.edu.pe"
+  ],
+  "state-province": null,
+  "country": "Peru",
+  "name": "Universidad Andina Nestor Caceares Velasquez",
+  "web_pages": [
+    "http://www.uancv.edu.pe/"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64ea33127092bcdc8c20d9bd"
+  },
+  "alpha_two_code": "AO",
+  "domains": [
+    "uan.ao"
+  ],
+  "state-province": null,
+  "country": "Angola",
+  "name": "Univesidade Agostinho Neto",
+  "web_pages": [
+    "http://www.uan.ao/"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64ea33267092bcdc8c20d9bf"
+  },
+  "alpha_two_code": "AO",
+  "domains": [
+    "ucan.edu"
+  ],
+  "state-province": null,
+  "country": "Angola",
+  "name": "Universidade Católica de Angola",
+  "web_pages": [
+    "http://www.ucan.edu/"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64ea33397092bcdc8c20d9c1"
+  },
+  "alpha_two_code": "AO",
+  "domains": [
+    "ugs.ed.ao"
+  ],
+  "state-province": null,
+  "country": "Angola",
+  "name": "Universidade Gregorio Semedo",
+  "web_pages": [
+    "http://www.ugs.ed.ao/"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64ea33507092bcdc8c20d9c3"
+  },
+  "alpha_two_code": "AO",
+  "domains": [
+    "ulangola.net"
+  ],
+  "state-province": null,
+  "country": "Angola",
+  "name": "Universidade Lusíada de Angola",
+  "web_pages": [
+    "http://www.ulangola.net/"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64ea33647092bcdc8c20d9c5"
+  },
+  "alpha_two_code": "AO",
+  "domains": [
+    "uma.co.ao"
+  ],
+  "state-province": null,
+  "country": "Angola",
+  "name": "Universidade Metodista de Angola",
+  "web_pages": [
+    "http://www.uma.co.ao/"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64ea33807092bcdc8c20d9c7"
+  },
+  "alpha_two_code": "JP",
+  "domains": [
+    "aasa.ac.jp"
+  ],
+  "state-province": null,
+  "country": "Japan",
+  "name": "Aichi Shukutoku University",
+  "web_pages": [
+    "http://www.aasa.ac.jp/"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64ea33957092bcdc8c20d9c9"
+  },
+  "alpha_two_code": "JP",
+  "domains": [
+    "abu.ac.jp"
+  ],
+  "state-province": null,
+  "country": "Japan",
+  "name": "Aichi Bunkyo University",
+  "web_pages": [
+    "http://www.abu.ac.jp/"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64ea33a97092bcdc8c20d9cb"
+  },
+  "alpha_two_code": "JP",
+  "domains": [
+    "aichi-edu.ac.jp"
+  ],
+  "state-province": null,
+  "country": "Japan",
+  "name": "Aichi University of Education",
+  "web_pages": [
+    "http://www.aichi-edu.ac.jp/"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64ea33bc7092bcdc8c20d9cd"
+  },
+  "alpha_two_code": "JP",
+  "domains": [
+    "aichi-fam-u.ac.jp"
+  ],
+  "state-province": null,
+  "country": "Japan",
+  "name": "Aichi Prefectural University of Fine Arts & Music",
+  "web_pages": [
+    "http://www.aichi-fam-u.ac.jp/"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64ea33cd7092bcdc8c20d9cf"
+  },
+  "alpha_two_code": "JP",
+  "domains": [
+    "aichi-gakuin.ac.jp"
+  ],
+  "state-province": null,
+  "country": "Japan",
+  "name": "Aichi Gakuin University",
+  "web_pages": [
+    "http://www.aichi-gakuin.ac.jp/"
+  ]
+}]
